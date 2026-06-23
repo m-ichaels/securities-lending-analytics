@@ -1,0 +1,804 @@
+symbol,name,market,exchange
+AA,Alcoa Corporation,NYSE,XNYS
+AAL,American Airlines Group Inc. C,NNM,XNAS
+AAOI,"Applied Optoelectronics, Inc.",NNM,XNAS
+AAPL,Apple Inc. Common Stock,NNM,XNAS
+ABAT,American Battery Technology Co,SC,XNAS
+ABBV,ABBVIE INC.,NYSE,XNYS
+ABCL,AbCellera Biologics Inc. Commo,NNM,XNAS
+ABEV,AMBEV S.A.,NYSE,XNYS
+ABNB,"Airbnb, Inc. Class A Common St",NNM,XNAS
+ABSI,Absci Corporation Common Stock,NNM,XNAS
+ABT,Abbott Laboratories,NYSE,XNYS
+ABUS,Arbutus Biopharma Corporation,NNM,XNAS
+ACHC,"Acadia Healthcare Company, Inc",NNM,XNAS
+ACHR,Archer Aviation Inc.,NYSE,XNYS
+ACI,"Albertsons Companies, Inc.",NYSE,XNYS
+ACN,Accenture PLC,NYSE,XNYS
+ADBE,Adobe Inc. Common Stock,NNM,XNAS
+ADI,"Analog Devices, Inc. Common St",NNM,XNAS
+ADMA,ADMA Biologics Inc Common Stoc,NNM,XNAS
+ADT,ADT Inc.,NYSE,XNYS
+AEG,Aegon Ltd.,NYSE,XNYS
+AEHL,Antelope Enterprise Holdings L,SC,XNAS
+AEMD,"Aethlon Medical, Inc. Common S",SC,XNAS
+AEO,American Eagle Outfitters,NYSE,XNYS
+AEON,"AEON Biopharma, Inc.",AMEX,XNYS
+AEP,American Electric Power Compan,NNM,XNAS
+AES,AES Corporation,NYSE,XNYS
+AESI,Atlas Energy Solutions Inc.,NYSE,XNYS
+AFRM,"Affirm Holdings, Inc. Class A",NNM,XNAS
+AG,FIRST MAJESTIC SILVER CORP,NYSE,XNYS
+AGI,Alamos Gold Inc. Class A Commo,NYSE,XNYS
+AGNC,AGNC Investment Corp. Common S,NNM,XNAS
+AGRZ,Agroz Inc. Class A Ordinary Sh,SC,XNAS
+AHR,"American Healthcare REIT, Inc.",NYSE,XNYS
+AI,"C3.ai, Inc.",NYSE,XNYS
+AIM,AIM ImmunoTech Inc.,AMEX,XNYS
+AIXC,"AIxCrypto Holdings, Inc. Commo",SC,XNAS
+AIXI,XIAO-I Corporation American De,NNM,XNAS
+AKAM,"Akamai Technologies, Inc. Comm",NNM,XNAS
+AKBA,"Akebia Therapeutics, Inc. Comm",SC,XNAS
+ALHC,"Alignment Healthcare, Inc. Com",NNM,XNAS
+ALLO,"Allogene Therapeutics, Inc. Co",NNM,XNAS
+ALM,Almonty Industries Inc. Common,SC,XNAS
+ALT,"Altimmune, Inc. Common Stock",NNM,XNAS
+AMAT,"Applied Materials, Inc. Common",NNM,XNAS
+AMC,"AMC ENTERTAINMENT HOLDINGS, IN",NYSE,XNYS
+AMCR,Amcor plc Ordinary Shares,NYSE,XNYS
+AMD,"Advanced Micro Devices, Inc. C",NNM,XNAS
+AMIX,"Autonomix Medical, Inc. Common",SC,XNAS
+AMKR,"Amkor Technology, Inc. Common",NNM,XNAS
+AMLX,"Amylyx Pharmaceuticals, Inc. C",NNM,XNAS
+AMPX,"Amprius Technologies, Inc.",NYSE,XNYS
+AMZN,"Amazon.com, Inc. Common Stock",NNM,XNAS
+ANET,Arista Networks,NYSE,XNYS
+ANNX,"Annexon, Inc. Common Stock",NNM,XNAS
+APA,APA Corporation Common Stock,NNM,XNAS
+APH,Amphenol Corporation,NYSE,XNYS
+APLD,Applied Digital Corporation Co,NNM,XNAS
+APLE,"Apple Hospitality REIT, Inc.",NYSE,XNYS
+APO,"Apollo Global Management, Inc.",NYSE,XNYS
+APP,Applovin Corporation Class A C,NNM,XNAS
+APTV,Aptiv PLC,NYSE,XNYS
+AQST,"Aquestive Therapeutics, Inc. C",NNM,XNAS
+ARCC,Ares Capital Corporation Commo,NNM,XNAS
+ARDX,"Ardelyx, Inc. Common Stock",NNM,XNAS
+ARRY,"Array Technologies, Inc. Commo",NNM,XNAS
+AS,"Amer Sports, Inc.",NYSE,XNYS
+ASAN,"Asana, Inc. Class A Common Sto",NYSE,XNYS
+ASM,Avino Silver & Gold Mines Ltd.,AMEX,XNYS
+ASPI,ASP Isotopes Inc. Common Stock,SC,XNAS
+ASST,"Strive, Inc. Class A Common St",NNM,XNAS
+ASTS,"AST SpaceMobile, Inc. Class A",NNM,XNAS
+ASX,"ASE Technology Holding Co., Lt",NYSE,XNYS
+ATAI,AtaiBeckley Inc. Common Stock,NNM,XNAS
+AUR,"Aurora Innovation, Inc. Class",NNM,XNAS
+AVGO,Broadcom Inc. Common Stock,NNM,XNAS
+AVTR,"Avantor, Inc.",NYSE,XNYS
+AXTI,AXT Inc Common Stock,NNM,XNAS
+AZI,Autozi Internet Technology (Gl,SC,XNAS
+AZTR,Azitra Inc,AMEX,XNYS
+B,Barrick Mining Corporation,NYSE,XNYS
+BA,Boeing Company,NYSE,XNYS
+BABA,Alibaba Group Holding Limited,NYSE,XNYS
+BAC,Bank of America Corporation,NYSE,XNYS
+BAM,Brookfield Asset Management Lt,NYSE,XNYS
+BAOS,Baosheng Media Group Holdings,SC,XNAS
+BAX,Baxter International Inc.,NYSE,XNYS
+BB,BlackBerry Limited,NYSE,XNYS
+BBAI,"BigBear.ai Holdings, Inc.",NYSE,XNYS
+BBD,Banco Bradesco S.A. American D,NYSE,XNYS
+BBIO,"BridgeBio Pharma, Inc. Common",NNM,XNAS
+BBWI,"Bath & Body Works, Inc.",NYSE,XNYS
+BBY,"Best Buy Company, Inc.",NYSE,XNYS
+BCE,"BCE, Inc.",NYSE,XNYS
+BCRX,"BioCryst Pharmaceuticals, Inc.",NNM,XNAS
+BE,Bloom Energy Corporation,NYSE,XNYS
+BEAM,Beam Therapeutics Inc. Common,NNM,XNAS
+BEEM,Beam Global Common Stock,SC,XNAS
+BEKE,KE Holdings Inc. American Depo,NYSE,XNYS
+BFB,Brown-Forman Corporation Class,NYSE,XNYS
+BFLY,"Butterfly Network, Inc.",NYSE,XNYS
+BHP,BHP Group Limited American Dep,NYSE,XNYS
+BHVN,Biohaven Ltd.,NYSE,XNYS
+BIDU,"Baidu, Inc. ADS",NNM,XNAS
+BILI,Bilibili Inc. American Deposit,NNM,XNAS
+BIVI,BioVie Inc. Class A Common Sto,SC,XNAS
+BKD,"Brookdale Senior Living, Inc.",NYSE,XNYS
+BKNG,Booking Holdings Inc. Common S,NNM,XNAS
+BKR,Baker Hughes Company Class A C,NNM,XNAS
+BLDP,"Ballard Power Systems, Inc. Co",NNM,XNAS
+BMNR,BitMine Immersion Technologies,NYSE,XNYS
+BMY,Bristol-Myers Squibb Co.,NYSE,XNYS
+BN,Brookfield Corporation,NYSE,XNYS
+BNL,"Broadstone Net Lease, Inc.",NYSE,XNYS
+BORR,Borr Drilling Limited,NYSE,XNYS
+BP,BP p.l.c.,NYSE,XNYS
+BRKB,BERKSHIRE HATHAWAY Class B,NYSE,XNYS
+BRLS,Borealis Foods Inc. Class A Co,SC,XNAS
+BRX,BRIXMOR PROPERTY GROUP INC.,NYSE,XNYS
+BSX,Boston Scientific Corp.,NYSE,XNYS
+BTAI,"BioXcel Therapeutics, Inc. Com",SC,XNAS
+BTBT,"Bit Digital, Inc. Ordinary Sha",SC,XNAS
+BTCT,BTC Digital Ltd. Ordinary Shar,SC,XNAS
+BTDR,Bitdeer Technologies Group Cla,SC,XNAS
+BTE,Baytex Energy Corp.,NYSE,XNYS
+BTG,B2Gold Corp.,AMEX,XNYS
+BTI,British American Tobacco p.l.c,NYSE,XNYS
+BULL,Webull Corporation Class A Ord,SC,XNAS
+BW,"Babcock & Wilcox Enterprises,",NYSE,XNYS
+BX,Blackstone Inc.,NYSE,XNYS
+BZ,KANZHUN LIMITED American Depos,NNM,XNAS
+BZAI,"Blaize Holdings, Inc. Common S",NNM,XNAS
+C,Citigroup Inc.,NYSE,XNYS
+CABA,"Cabaletta Bio, Inc. Common Sto",NNM,XNAS
+CAG,"Conagra Brands, Inc.",NYSE,XNYS
+CAI,"Caris Life Sciences, Inc. Comm",NNM,XNAS
+CAN,Canaan Inc. American Depositar,SC,XNAS
+CAPR,"Capricor Therapeutics, Inc. Co",NNM,XNAS
+CARR,Carrier Global Corporation,NYSE,XNYS
+CAST,"FreeCast, Inc. Class A Common",NNM,XNAS
+CATX,"Perspective Therapeutics, Inc.",AMEX,XNYS
+CBRS,Cerebras Systems Inc. Class A,NNM,XNAS
+CCC,CCC Intelligent Solutions Hold,NNM,XNAS
+CCCC,"C4 Therapeutics, Inc. Common S",NNM,XNAS
+CCL,Carnival Corporation Ltd.,NYSE,XNYS
+CCO,Clear Channel Outdoor Holdings,NYSE,XNYS
+CDE,"Coeur Mining, Inc.",NYSE,XNYS
+CDTG,CDT Environmental Technology I,SC,XNAS
+CELH,"Celsius Holdings, Inc. Common",SC,XNAS
+CELU,Celularity Inc. Class A Common,SC,XNAS
+CERS,Cerus Corporation Common Stock,NNM,XNAS
+CERT,"Certara, Inc. Common Stock",NNM,XNAS
+CG,The Carlyle Group Inc. Common,NNM,XNAS
+CGC,Canopy Growth Corporation Comm,NNM,XNAS
+CHAI,"Core AI Holdings, Inc. Common",SC,XNAS
+CHOW,ChowChow Cloud International H,AMEX,XNYS
+CHRS,"Coherus Oncology, Inc. Common",NNM,XNAS
+CHWY,"Chewy, Inc.",NYSE,XNYS
+CHYM,"Chime Financial, Inc. Class A",NNM,XNAS
+CIFR,Cipher Digital Inc. Common Sto,NNM,XNAS
+CIG,Companhia Energetica De Minas,NYSE,XNYS
+CL,Colgate-Palmolive Company,NYSE,XNYS
+CLBK,"Columbia Financial, Inc. Commo",NNM,XNAS
+CLF,Cleveland-Cliffs Inc.,NYSE,XNYS
+CLGN,CollPlant Biotechnologies Ltd,SC,XNAS
+CLM,Cornerstone Strategic Investme,AMEX,XNYS
+CLOV,"Clover Health Investments, Cor",NNM,XNAS
+CLSK,"CleanSpark, Inc. Common Stock",SC,XNAS
+CLVT,Clarivate Plc,NYSE,XNYS
+CMCSA,Comcast Corporation Class A Co,NNM,XNAS
+CMG,"Chipotle Mexican Grill, Inc.",NYSE,XNYS
+CMPX,"Compass Therapeutics, Inc. Com",SC,XNAS
+CNH,CNH INDUSTRIAL N.V.,NYSE,XNYS
+CNP,"CenterPoint Energy, Inc.",NYSE,XNYS
+CNQ,Canadian Natural Resources Lim,NYSE,XNYS
+COGT,"Cogent Biosciences, Inc. Commo",NNM,XNAS
+COHR,Coherent Corp.,NYSE,XNYS
+COIN,"Coinbase Global, Inc. Class A",NNM,XNAS
+COMP,"Compass, Inc.",NYSE,XNYS
+COOT,Australian Oilseeds Holdings L,SC,XNAS
+COP,ConocoPhillips,NYSE,XNYS
+CORZ,"Core Scientific, Inc. Common S",NNM,XNAS
+COTY,COTY INC,NYSE,XNYS
+COUR,"Coursera, Inc.",NYSE,XNYS
+CP,Canadian Pacific Kansas City L,NYSE,XNYS
+CPB,The Campbell's Company Common,NNM,XNAS
+CPNG,"Coupang, Inc.",NYSE,XNYS
+CPRI,Capri Holdings Limited,NYSE,XNYS
+CPRT,"Copart, Inc. (DE) Common Stock",NNM,XNAS
+CRCL,"Circle Internet Group, Inc.",NYSE,XNYS
+CRDO,Credo Technology Group Holding,NNM,XNAS
+CRE,Cre8 Enterprise Limited Class,SC,XNAS
+CRGY,Crescent Energy Company,NYSE,XNYS
+CRH,CRH Public Limited Company,NYSE,XNYS
+CRK,"Comstock Resources, Inc.",NYSE,XNYS
+CRM,"Salesforce, Inc.",NYSE,XNYS
+CRML,Critical Metals Corp. Ordinary,NNM,XNAS
+CRSP,CRISPR Therapeutics AG Common,NNM,XNAS
+CRVS,"Corvus Pharmaceuticals, Inc. C",NNM,XNAS
+CRWD,"CrowdStrike Holdings, Inc. Cla",NNM,XNAS
+CRWV,"CoreWeave, Inc. Class A Common",NNM,XNAS
+CSCO,"Cisco Systems, Inc. Common Sto",NNM,XNAS
+CSGP,"CoStar Group, Inc. Common Stoc",NNM,XNAS
+CSIQ,Canadian Solar Inc. Common Sha,NNM,XNAS
+CSX,CSX Corporation Common Stock,NNM,XNAS
+CTMX,"CytomX Therapeutics, Inc. Comm",NNM,XNAS
+CTSH,Cognizant Technology Solutions,NNM,XNAS
+CTVA,"Corteva, Inc. Common Stock",NYSE,XNYS
+CVE,Cenovus Energy Inc.,NYSE,XNYS
+CVNA,Carvana Co.,NYSE,XNYS
+CVS,CVS HEALTH CORPORATION,NYSE,XNYS
+CVX,Chevron Corporation,NYSE,XNYS
+CX,Cemex S.A.B. de C.V.,NYSE,XNYS
+CYAB,"Cyabra, Inc. Common Stock",NNM,XNAS
+CYPH,Cypherpunk Technologies Inc. C,SC,XNAS
+CYTK,"Cytokinetics, Incorporated Com",NNM,XNAS
+CZR,"Caesars Entertainment, Inc. Co",NNM,XNAS
+D,"Dominion Energy, Inc Common St",NYSE,XNYS
+DAIC,"CID HoldCo, Inc. Common Stock",NNM,XNAS
+DAL,"Delta Air Lines, Inc.",NYSE,XNYS
+DASH,"DoorDash, Inc. Class A Common",NNM,XNAS
+DBRG,"DigitalBridge Group, Inc.",NYSE,XNYS
+DBX,"Dropbox, Inc. Class A Common S",NNM,XNAS
+DCH,Dauch Corporation,NYSE,XNYS
+DDD,3D Systems Corporation,NYSE,XNYS
+DEFT,"Defi Technologies, Inc. Common",SC,XNAS
+DEI,"Douglas Emmett, Inc.",NYSE,XNYS
+DELL,Dell Technologies Inc.,NYSE,XNYS
+DIS,The Walt Disney Company,NYSE,XNYS
+DKNG,DraftKings Inc. Class A Common,NNM,XNAS
+DKS,"Dick's Sporting Goods, Inc.",NYSE,XNYS
+DLO,DLocal Limited Class A Common,NNM,XNAS
+DNN,Denison Mines Corp,AMEX,XNYS
+DNUT,"Krispy Kreme, Inc. Common Stoc",NNM,XNAS
+DOC,"Healthpeak Properties, Inc.",NYSE,XNYS
+DOW,Dow Inc.,NYSE,XNYS
+DT,"Dynatrace, Inc.",NYSE,XNYS
+DUO,Fangdd Network Group Ltd. Clas,SC,XNAS
+DVLT,Datavault AI Inc. Common Stock,SC,XNAS
+DVN,Devon Energy Corporation,NYSE,XNYS
+DX,"Dynex Capital, Inc.",NYSE,XNYS
+DXC,DXC Technology Company,NYSE,XNYS
+DXCM,"DexCom, Inc. Common Stock",NNM,XNAS
+DYN,"Dyne Therapeutics, Inc. Common",NNM,XNAS
+EBAY,eBay Inc. Common Stock,NNM,XNAS
+ECHO,EchoStar Corporation Common St,NNM,XNAS
+EDIT,"Editas Medicine, Inc. Common S",NNM,XNAS
+EHGO,Eshallgo Inc. Class A Ordinary,SC,XNAS
+EIX,Edison International,NYSE,XNYS
+EL,The Estee Lauder Companies Inc,NYSE,XNYS
+ELAN,Elanco Animal Health Incorpora,NYSE,XNYS
+ENB,"Enbridge, Inc",NYSE,XNYS
+ENPH,"Enphase Energy, Inc. Common St",NNM,XNAS
+ENVX,Enovix Corporation Common Stoc,NNM,XNAS
+EOSE,"Eos Energy Enterprises, Inc. C",SC,XNAS
+EPD,Enterprise Products Partners L,NYSE,XNYS
+EPOW,E-Power Inc. Class A Ordinary,SC,XNAS
+EQT,EQT CORP,NYSE,XNYS
+EQX,Equinox Gold Corp.,AMEX,XNYS
+ERAS,"Erasca, Inc. Common Stock",NNM,XNAS
+ESI,Element Solutions Inc.,NYSE,XNYS
+ETR,Entergy Corporation,NYSE,XNYS
+EU,enCore Energy Corp. Common Sha,SC,XNAS
+EVGO,EVgo Inc. Class A Common Stock,NNM,XNAS
+EVRG,"Evergy, Inc. Common Stock",NNM,XNAS
+EVTL,Vertical Aerospace Ltd.,NYSE,XNYS
+EXC,Exelon Corporation Common Stoc,NNM,XNAS
+EXEL,"Exelixis, Inc. Common Stock",NNM,XNAS
+EXK,Endeavour Silver Corp.,NYSE,XNYS
+EYPT,"EyePoint, Inc. Common Stock",NNM,XNAS
+F,Ford Motor Company,NYSE,XNYS
+FAMI,"Farmmi, Inc. Class A Ordinary",SC,XNAS
+FAST,Fastenal Company Common Stock,NNM,XNAS
+FCEL,"FuelCell Energy, Inc. Common S",NNM,XNAS
+FCX,Freeport-McMoran Inc.,NYSE,XNYS
+FE,FirstEnergy Corp.,NYSE,XNYS
+FGL,Founder Group Limited Class A,SC,XNAS
+FIG,"Figma, Inc.",NYSE,XNYS
+FIGR,"Figure Technology Solutions, I",NNM,XNAS
+FIP,FTAI Infrastructure Inc. Commo,NNM,XNAS
+FIS,Fidelity National Information,NYSE,XNYS
+FISV,"Fiserv, Inc. Common Stock",NNM,XNAS
+FITB,Fifth Third Bancorp,NYSE,XNYS
+FLG,"Flagstar Bank, National Associ",NYSE,XNYS
+FLNC,"Fluence Energy, Inc. Class A C",NNM,XNAS
+FLO,"Flowers Foods, Inc.",NYSE,XNYS
+FMC,FMC Corporation,NYSE,XNYS
+FNB,F.N.B. Corp,NYSE,XNYS
+FNGR,"FingerMotion, Inc. Common Stoc",SC,XNAS
+FOXA,Fox Corporation Class A Common,NNM,XNAS
+FPS,"Forgent Power Solutions, Inc.",NYSE,XNYS
+FRMI,Fermi Inc. Common Stock,NNM,XNAS
+FRSH,Freshworks Inc. Class A Common,NNM,XNAS
+FRVO,Fervo Energy Company Class A c,NNM,XNAS
+FSLY,"Fastly, Inc. Class A Common St",NNM,XNAS
+FSM,Fortuna Mining Corp.,NYSE,XNYS
+FTNT,"Fortinet, Inc. Common Stock",NNM,XNAS
+FUN,Six Flags Entertainment Corpor,NYSE,XNYS
+GAP,"The Gap, Inc.",NYSE,XNYS
+GAUZ,Gauzy Ltd. Ordinary Shares,NNM,XNAS
+GE,GE Aerospace,NYSE,XNYS
+GEHC,GE HealthCare Technologies Inc,NNM,XNAS
+GEN,Gen Digital Inc. Common Stock,NNM,XNAS
+GENI,Genius Sports Limited,NYSE,XNYS
+GERN,Geron Corporation Common Stock,NNM,XNAS
+GEVO,"Gevo, Inc. Common Stock",SC,XNAS
+GFL,GFL Environmental Inc. Subordi,NYSE,XNYS
+GGB,Gerdau S.A.,NYSE,XNYS
+GILD,"Gilead Sciences, Inc. Common S",NNM,XNAS
+GIPR,Generation Income Properties I,SC,XNAS
+GIS,"General Mills, Inc.",NYSE,XNYS
+GLPI,"Gaming and Leisure Properties,",NNM,XNAS
+GLUE,"Monte Rosa Therapeutics, Inc.",NNM,XNAS
+GLW,Corning Incorporated,NYSE,XNYS
+GLXY,Galaxy Digital Inc. Class A Co,NNM,XNAS
+GM,General Motors Company,NYSE,XNYS
+GME,GameStop Corp. Class A,NYSE,XNYS
+GNS,Genius Group Limited,AMEX,XNYS
+GO,Grocery Outlet Holding Corp. C,NNM,XNAS
+GOF,Guggenheim Strategic Opportuni,NYSE,XNYS
+GOOG,Alphabet Inc. Class C Capital,NNM,XNAS
+GOOGL,Alphabet Inc. Class A Common S,NNM,XNAS
+GOSS,"Gossamer Bio, Inc. Common Stoc",NNM,XNAS
+GPGI,"GPGI, Inc.",NYSE,XNYS
+GPK,Graphic Packaging Holding Comp,NYSE,XNYS
+GPRO,"GoPro, Inc. Class A Common Sto",NNM,XNAS
+GPUS,"Hyperscale Data, Inc.",AMEX,XNYS
+GRAB,Grab Holdings Limited Class A,NNM,XNAS
+GSUN,Golden Sun Technology Group Li,SC,XNAS
+GT,The Goodyear Tire & Rubber Com,NNM,XNAS
+GTM,ZoomInfo Technologies Inc Comm,NNM,XNAS
+GYGY,"Game Your Game, Inc. Common St",SC,XNAS
+HAL,Halliburton Company,NYSE,XNYS
+HBAN,Huntington Bancshares Incorpor,NNM,XNAS
+HBM,Hudbay Minerals Inc.,NYSE,XNYS
+HD,"Home Depot, Inc.",NYSE,XNYS
+HDB,HDFC Bank Limited,NYSE,XNYS
+HE,"Hawaiian Electric Industries,",NYSE,XNYS
+HIMS,"Hims & Hers Health, Inc.",NYSE,XNYS
+HIVE,HIVE Digital Technologies Ltd.,SC,XNAS
+HL,Hecla Mining Company,NYSE,XNYS
+HMY,Harmony Gold Mining Company Li,NYSE,XNYS
+HOG,"Harley-Davidson, Inc.",NYSE,XNYS
+HOOD,"Robinhood Markets, Inc. Class",NNM,XNAS
+HOWL,"Werewolf Therapeutics, Inc. Co",SC,XNAS
+HPE,Hewlett Packard Enterprise Com,NYSE,XNYS
+HPQ,HP Inc.,NYSE,XNYS
+HRL,Hormel Foods Corporation,NYSE,XNYS
+HRTX,"Heron Therapeutics, Inc. Commo",SC,XNAS
+HST,"Host Hotels & Resorts, Inc. Co",NNM,XNAS
+HTZ,"Hertz Global Holdings, Inc Com",NNM,XNAS
+HUIZ,Huize Holding Limited American,NNM,XNAS
+HUMA,"Humacyte, Inc. Common Stock",NNM,XNAS
+HUT,Hut 8 Corp. Common Stock,NNM,XNAS
+HYLN,Hyliion Holdings Corp.,AMEX,XNYS
+IAG,IAMGold Corporation,NYSE,XNYS
+IAUX,i-80 Gold Corp.,AMEX,XNYS
+IBM,International Business Machine,NYSE,XNYS
+IBN,ICICI Bank Limited,NYSE,XNYS
+IEP,"Icahn Enterprises, L.P. Common",NNM,XNAS
+IKT,"Inhibikase Therapeutics, Inc.",SC,XNAS
+IMO,Imperial Oil Limited,AMEX,XNYS
+INDI,"indie Semiconductor, Inc. Clas",SC,XNAS
+INFQ,"Infleqtion, Inc.",NYSE,XNYS
+INFY,Infosys Limited American Depos,NYSE,XNYS
+INO,"Inovio Pharmaceuticals, Inc. C",SC,XNAS
+INTC,Intel Corporation Common Stock,NNM,XNAS
+INTR,Inter & Co. Inc. Class A Commo,NNM,XNAS
+INTU,Intuit Inc. Common Stock,NNM,XNAS
+INV,"Innventure, Inc. Common Stock",NNM,XNAS
+INVZ,Innoviz Technologies Ltd. Ordi,SC,XNAS
+IONQ,"IonQ, Inc.",NYSE,XNYS
+IONS,"Ionis Pharmaceuticals, Inc. Co",NNM,XNAS
+IOT,Samsara Inc.,NYSE,XNYS
+IOVA,"Iovance Biotherapeutics, Inc.",NNM,XNAS
+IP,International Paper Co.,NYSE,XNYS
+IPSC,"Century Therapeutics, Inc. Com",SC,XNAS
+IPST,"IP Strategy Holdings, Inc. Com",SC,XNAS
+IQ,"iQIYI, Inc. American Depositar",NNM,XNAS
+IREN,IREN Limited Ordinary Shares,NNM,XNAS
+IRWD,"Ironwood Pharmaceuticals, Inc.",NNM,XNAS
+ITUB,Itau Unibanco Holding S.A. Ame,NYSE,XNYS
+IVF,"INVO Fertility, Inc. Common St",SC,XNAS
+IVVD,"Invivyd, Inc. Common Stock",NNM,XNAS
+JBLU,JetBlue Airways Corporation Co,NNM,XNAS
+JBS,JBS N.V.,NYSE,XNYS
+JD,"JD.com, Inc. American Deposita",NNM,XNAS
+JEPQ,J.P. Morgan Exchange-Traded Fu,NNM,XNAS
+JHX,James Hardie Industries plc,NYSE,XNYS
+JNJ,Johnson & Johnson,NYSE,XNYS
+JOBY,"Joby Aviation, Inc.",NYSE,XNYS
+JPM,JPMorgan Chase & Co.,NYSE,XNYS
+JUNS,"Jupiter Neurosciences, Inc. Co",SC,XNAS
+JZ,Jianzhi Education Technology G,SC,XNAS
+KD,"Kyndryl Holdings, Inc.",NYSE,XNYS
+KDP,Keurig Dr Pepper Inc. Common S,NNM,XNAS
+KEEL,Keel Infrastructure Corp. Comm,NNM,XNAS
+KEY,KeyCorp,NYSE,XNYS
+KGC,Kinross Gold Corporation,NYSE,XNYS
+KHC,The Kraft Heinz Company Common,NNM,XNAS
+KIM,Kimco Realty Corp.,NYSE,XNYS
+KLAC,KLA Corporation Common Stock,NNM,XNAS
+KLAR,Klarna Group plc,NYSE,XNYS
+KMB,Kimberly-Clark Corporation Com,NNM,XNAS
+KMI,"Kinder Morgan, Inc.",NYSE,XNYS
+KNRX,KNOREX LTD.,AMEX,XNYS
+KO,Coca-Cola Company,NYSE,XNYS
+KOPN,Kopin Corporation Common Stock,SC,XNAS
+KOS,Kosmos Energy Ltd.,NYSE,XNYS
+KR,The Kroger Co.,NYSE,XNYS
+KSS,Kohls Corporation,NYSE,XNYS
+KVUE,Kenvue Inc.,NYSE,XNYS
+KVYO,"Klaviyo, Inc.",NYSE,XNYS
+LAC,Lithium Americas Corp.,NYSE,XNYS
+LAES,SEALSQ Corp Ordinary Shares,NNM,XNAS
+LCID,"Lucid Group, Inc. Common Stock",NNM,XNAS
+LCTX,"Lineage Cell Therapeutics, Inc",AMEX,XNYS
+LDI,"loanDepot, Inc.",NYSE,XNYS
+LEN,Lennar Corporation Class A,NYSE,XNYS
+LGCL,Lucas GC Limited Ordinary Shar,SC,XNAS
+LGHL,Lion Group Holding Ltd. Americ,SC,XNAS
+LGPS,LogProstyle Inc.,AMEX,XNYS
+LI,Li Auto Inc. American Deposita,NNM,XNAS
+LITE,Lumentum Holdings Inc. Common,NNM,XNAS
+LNT,Alliant Energy Corporation Com,NNM,XNAS
+LOOP,"Loop Industries, Inc. Common S",NNM,XNAS
+LRCX,Lam Research Corporation Commo,NNM,XNAS
+LUCY,"Innovative Eyewear, Inc. Commo",SC,XNAS
+LULU,lululemon athletica inc. Commo,NNM,XNAS
+LUMN,"Lumen Technologies, Inc.",NYSE,XNYS
+LUNR,"Intuitive Machines, Inc. Class",NNM,XNAS
+LUV,Southwest Airlines Co.,NYSE,XNYS
+LVS,Las Vegas Sands Corp.,NYSE,XNYS
+LWLG,"Lightwave Logic, Inc. Common S",SC,XNAS
+LXEO,"Lexeo Therapeutics, Inc. Commo",NNM,XNAS
+LXRX,"Lexicon Pharmaceuticals, Inc.",SC,XNAS
+LYFT,"Lyft, Inc. Class A Common Stoc",NNM,XNAS
+LYG,Lloyds Banking Group PLC,NYSE,XNYS
+LYV,Live Nation Entertainment Inc.,NYSE,XNYS
+M,Macy's Inc.,NYSE,XNYS
+MAC,The Macerich Company,NYSE,XNYS
+MARA,"MARA Holdings, Inc. Common Sto",SC,XNAS
+MAT,"Mattel, Inc. Common Stock",NNM,XNAS
+MBLY,Mobileye Global Inc. Class A C,NNM,XNAS
+MCD,McDonald's Corporation,NYSE,XNYS
+MCHP,Microchip Technology Incorpora,NNM,XNAS
+MDLN,Medline Inc. Class A Common St,NNM,XNAS
+MDLZ,"Mondelez International, Inc. C",NNM,XNAS
+MDT,Medtronic plc,NYSE,XNYS
+MERC,Mercer International Inc. Comm,NNM,XNAS
+META,"Meta Platforms, Inc. Class A C",NNM,XNAS
+MGM,MGM RESORTS INTERNATIONAL,NYSE,XNYS
+MGN,Megan Holdings Limited Class A,SC,XNAS
+MGY,Magnolia Oil & Gas Corporation,NYSE,XNYS
+MIMI,Mint Incorporation Limited Cla,SC,XNAS
+MIR,"Mirion Technologies, Inc.",NYSE,XNYS
+MIST,Milestone Pharmaceuticals Inc.,NNM,XNAS
+MMA,Mixed Martial Arts Group Limit,AMEX,XNYS
+MNKD,MannKind Corporation Common St,NNM,XNAS
+MNST,Monster Beverage Corporation,NNM,XNAS
+MO,"Altria Group, Inc.",NYSE,XNYS
+MOS,The Mosaic Company,NYSE,XNYS
+MP,MP Materials Corp.,NYSE,XNYS
+MRK,"Merck & Co., Inc.",NYSE,XNYS
+MRNA,"Moderna, Inc. Common Stock",NNM,XNAS
+MRVI,"Maravai LifeSciences Holdings,",NNM,XNAS
+MRVL,"Marvell Technology, Inc. Commo",NNM,XNAS
+MSFT,Microsoft Corporation Common S,NNM,XNAS
+MSS,Maison Solutions Inc. Class A,SC,XNAS
+MSTR,Strategy Inc Common Stock Clas,NNM,XNAS
+MU,"Micron Technology, Inc. Common",NNM,XNAS
+MVST,"Microvast Holdings, Inc. Commo",SC,XNAS
+NAK,"Northern Dynasty Minerals, Ltd",AMEX,XNYS
+NBIS,Nebius Group N.V. Class A Ordi,NNM,XNAS
+NCLH,Norwegian Cruise Line Holdings,NYSE,XNYS
+NCNO,"nCino, Inc. Common Stock",NNM,XNAS
+NCPL,Netcapital Inc. Common Stock,SC,XNAS
+NCRA,"Nocera, Inc. Common Stock",SC,XNAS
+NEE,"NextEra Energy, Inc.",NYSE,XNYS
+NEM,Newmont Corporation,NYSE,XNYS
+NEXT,NextDecade Corporation Common,SC,XNAS
+NFE,New Fortress Energy Inc. Class,NNM,XNAS
+NFLX,"Netflix, Inc. Common Stock",NNM,XNAS
+NG,NovaGold Resources Inc.,AMEX,XNYS
+NI,NiSource Inc.,NYSE,XNYS
+NKE,"Nike, Inc.",NYSE,XNYS
+NLY,Annaly Capital Management. Inc,NYSE,XNYS
+NOG,"Northern Oil and Gas, Inc.",NYSE,XNYS
+NOK,Nokia Corporation,NYSE,XNYS
+NOV,NOV Inc.,NYSE,XNYS
+NOW,"SERVICENOW, INC.",NYSE,XNYS
+NRGV,"Energy Vault Holdings, Inc.",NYSE,XNYS
+NRIX,"Nurix Therapeutics, Inc. Commo",NNM,XNAS
+NTLA,"Intellia Therapeutics, Inc. Co",NNM,XNAS
+NU,Nu Holdings Ltd.,NYSE,XNYS
+NUAI,"New Era Energy & Digital, Inc.",NNM,XNAS
+NUVB,Nuvation Bio Inc.,NYSE,XNYS
+NVAX,"Novavax, Inc. Common Stock",NNM,XNAS
+NVDA,NVIDIA Corporation Common Stoc,NNM,XNAS
+NVO,Novo-Nordisk A/S,NYSE,XNYS
+NVTS,Navitas Semiconductor Corporat,NNM,XNAS
+NWL,Newell Brands Inc. Common Stoc,NNM,XNAS
+NXE,NexGen Energy Ltd.,NYSE,XNYS
+O,Realty Income Corporation,NYSE,XNYS
+OBAI,"Our Bond, Inc. Common Stock",NNM,XNAS
+OBDC,Blue Owl Capital Corporation,NYSE,XNYS
+OCGN,"Ocugen, Inc. Common Stock",SC,XNAS
+OCUL,"Ocular Therapeutix, Inc. Commo",NNM,XNAS
+OFAL,OFA Group Class A Ordinary Sha,SC,XNAS
+OGG,Osisko Gold Group Inc.,NYSE,XNYS
+OKE,"Oneok, Inc.",NYSE,XNYS
+OKLO,Oklo Inc.,NYSE,XNYS
+OKTA,"Okta, Inc. Class A Common Stoc",NNM,XNAS
+OMC,Omnicom Group Inc.,NYSE,XNYS
+ON,ON Semiconductor Corporation C,NNM,XNAS
+ONB,Old National Bancorp Common St,NNM,XNAS
+ONDS,Ondas Inc. Common Stock,SC,XNAS
+ONON,On Holding AG,NYSE,XNYS
+OPEN,Opendoor Technologies Inc Comm,NNM,XNAS
+OPK,"OPKO Health, Inc. Common Stock",NNM,XNAS
+OPTT,"Ocean Power Technologies, Inc.",AMEX,XNYS
+OPTU,"Optimum Communications, Inc.",NYSE,XNYS
+ORBS,Eightco Holdings Inc. Common S,SC,XNAS
+ORC,"Orchid Island Capital, Inc.",NYSE,XNYS
+ORCL,Oracle Corp,NYSE,XNYS
+ORIC,"Oric Pharmaceuticals, Inc. Com",NNM,XNAS
+ORLY,"O'Reilly Automotive, Inc. Comm",NNM,XNAS
+OSCR,"Oscar Health, Inc.",NYSE,XNYS
+OTLK,"Outlook Therapeutics, Inc. Com",SC,XNAS
+OVID,Ovid Therapeutics Inc. Common,SC,XNAS
+OWL,Blue Owl Capital Inc.,NYSE,XNYS
+OXY,Occidental Petroleum Corporati,NYSE,XNYS
+PAAS,Pan American Silver Corp.,NYSE,XNYS
+PACB,Pacific Biosciences of Califor,NNM,XNAS
+PAGP,"Plains GP Holdings, L.P. Class",NNM,XNAS
+PAGS,PagSeguro Digital Ltd.,NYSE,XNYS
+PALI,"Palisade Bio, Inc. Common Stoc",SC,XNAS
+PANW,"Palo Alto Networks, Inc. Commo",NNM,XNAS
+PASW,"Ping An Biomedical Co., Ltd. C",SC,XNAS
+PATH,"UiPath, Inc.",NYSE,XNYS
+PAYX,"Paychex, Inc. Common Stock",NNM,XNAS
+PBR,PETROLEO BRASILEIRO S.A.-PETRO,NYSE,XNYS
+PBRA,Petroleo Brasileiro S.A.-Petro,NYSE,XNYS
+PCG,PG&E Corporation,NYSE,XNYS
+PCT,"PureCycle Technologies, Inc. C",SC,XNAS
+PDD,PDD Holdings Inc. American Dep,NNM,XNAS
+PEP,"PepsiCo, Inc. Common Stock",NNM,XNAS
+PFE,Pfizer Inc.,NYSE,XNYS
+PFSA,"Profusa, Inc. Common Stock",SC,XNAS
+PG,Procter & Gamble Company,NYSE,XNYS
+PGEN,"Precigen, Inc. Common Stock",NNM,XNAS
+PINS,"Pinterest, Inc. Class A Common",NYSE,XNYS
+PK,Park Hotels & Resorts Inc. Com,NYSE,XNYS
+PL,Planet Labs PBC,NYSE,XNYS
+PLD,"PROLOGIS, INC.",NYSE,XNYS
+PLTR,Palantir Technologies Inc. Cla,NNM,XNAS
+PLUG,"Plug Power, Inc. Common Stock",SC,XNAS
+PM,Philip Morris International In,NYSE,XNYS
+PMI,"Picard Medical, Inc.",AMEX,XNYS
+PNR,Pentair plc,NYSE,XNYS
+POET,POET Technologies Inc. Common,SC,XNAS
+PONY,Pony AI Inc. American Deposita,NNM,XNAS
+PPCB,"Propanc Biopharma, Inc. Common",SC,XNAS
+PPL,PPL Corporation,NYSE,XNYS
+PR,Permian Resources Corporation,NYSE,XNYS
+PRGO,PERRIGO COMPANY PLC,NYSE,XNYS
+PRMB,Primo Brands Corporation,NYSE,XNYS
+PRME,"Prime Medicine, Inc. Common St",NNM,XNAS
+PROK,ProKidney Corp. Class A Ordina,SC,XNAS
+PRZO,ParaZero Technologies Ltd. Ord,SC,XNAS
+PSEC,Prospect Capital Corporation C,NNM,XNAS
+PSKY,Paramount Skydance Corporation,NNM,XNAS
+PSNL,"Personalis, Inc. Common Stock",NNM,XNAS
+PTEN,"Patterson-UTI Energy, Inc. Com",NNM,XNAS
+PTON,"Peloton Interactive, Inc. Clas",NNM,XNAS
+PURR,Hyperliquid Strategies Inc Com,SC,XNAS
+PYPL,"PayPal Holdings, Inc. Common S",NNM,XNAS
+QBTS,D-Wave Quantum Inc. Common Sto,NNM,XNAS
+QCOM,QUALCOMM Incorporated Common S,NNM,XNAS
+QFIN,"Qfin Holdings, Inc. American D",NNM,XNAS
+QS,QuantumScape Corporation Class,NNM,XNAS
+QSR,Restaurant Brands Internationa,NYSE,XNYS
+QTEX,QTREX Quantum Ltd. Ordinary Sh,SC,XNAS
+QUBT,Quantum Computing Inc. Common,SC,XNAS
+QXO,"QXO, Inc.",NYSE,XNYS
+RBLX,Roblox Corporation,NYSE,XNYS
+RBRK,"Rubrik, Inc.",NYSE,XNYS
+RC,Ready Capital Corporation,NYSE,XNYS
+RCAT,"Red Cat Holdings, Inc. Common",SC,XNAS
+RCI,"Rogers Communications, Inc.",NYSE,XNYS
+RDDT,"Reddit, Inc.",NYSE,XNYS
+RDHL,Redhill Biopharma Ltd. America,SC,XNAS
+RDW,Redwire Corporation,NYSE,XNYS
+RDY,Dr. Reddy's Laboratories Limit,NYSE,XNYS
+REPL,"Replimune Group, Inc. Common S",NNM,XNAS
+RF,Regions Financial Corp.,NYSE,XNYS
+RGTI,"Rigetti Computing, Inc. Common",SC,XNAS
+RHI,Robert Half Inc.,NYSE,XNYS
+RIG,Transocean LTD.,NYSE,XNYS
+RIOT,"Riot Platforms, Inc. Common St",SC,XNAS
+RITM,Rithm Capital Corp.,NYSE,XNYS
+RITR,Reitar Logtech Holdings Limite,SC,XNAS
+RIVN,"Rivian Automotive, Inc. Class",NNM,XNAS
+RKLB,Rocket Lab Corporation Common,NNM,XNAS
+RKT,"Rocket Companies, Inc.",NYSE,XNYS
+RLAY,"Relay Therapeutics, Inc. Commo",NNM,XNAS
+ROIV,Roivant Sciences Ltd. Common S,NNM,XNAS
+ROL,"Rollins, Inc.",NYSE,XNYS
+RR,Richtech Robotics Inc. Class B,SC,XNAS
+RRC,Range Resources Corp,NYSE,XNYS
+RTX,RTX Corporation,NYSE,XNYS
+RUM,RUM Group Inc. Class A Common,NNM,XNAS
+RUN,Sunrun Inc. Common Stock,NNM,XNAS
+RXRX,"Recursion Pharmaceuticals, Inc",NNM,XNAS
+RXT,"Rackspace Technology, Inc. Com",NNM,XNAS
+RZLV,Rezolve AI PLC Ordinary Shares,NNM,XNAS
+S,"SentinelOne, Inc.",NYSE,XNYS
+SABR,Sabre Corporation Common Stock,NNM,XNAS
+SAIL,"SailPoint, Inc. Common Stock",NNM,XNAS
+SAN,Banco Santander S.A.,NYSE,XNYS
+SANA,"Sana Biotechnology, Inc. Commo",NNM,XNAS
+SATL,Satellogic Inc. Class A Common,SC,XNAS
+SBET,"Sharplink, Inc. Common Stock",SC,XNAS
+SBH,"Sally Beauty Holdings, Inc.",NYSE,XNYS
+SBRA,"Sabra Health Care REIT, Inc. C",NNM,XNAS
+SBS,COMPANHIA DE SANEAMENTO B SICO,NYSE,XNYS
+SBSW,Sibanye-Stillwater American De,NYSE,XNYS
+SBUX,Starbucks Corporation Common S,NNM,XNAS
+SCHW,The Charles Schwab Corporation,NYSE,XNYS
+SDOT,Sadot Group Inc. Common Stock,SC,XNAS
+SERV,Serve Robotics Inc. Common Sto,SC,XNAS
+SES,SES AI Corporation,NYSE,XNYS
+SG,"Sweetgreen, Inc.",NYSE,XNYS
+SGHC,Super Group (SGHC) Limited,NYSE,XNYS
+SGLY,Singularity Future Technology,SC,XNAS
+SHLS,"Shoals Technologies Group, Inc",NNM,XNAS
+SHOP,Shopify Inc. Class A Subordina,NNM,XNAS
+SIDU,"Sidus Space, Inc. Class A Comm",SC,XNAS
+SIRI,SiriusXM Holdings Inc. Common,NNM,XNAS
+SKHY,SK hynix Inc. American Deposit,NNM,XNAS
+SLB,SLB Limited,NYSE,XNYS
+SLDP,"Solid Power, Inc. Class A Comm",NNM,XNAS
+SLE,"Super League Enterprise, Inc.",SC,XNAS
+SLM,SLM Corporation Common Stock,NNM,XNAS
+SLNH,"Soluna Holdings, Inc. Common S",SC,XNAS
+SLS,"SELLAS Life Sciences Group, In",SC,XNAS
+SMCI,"Super Micro Computer, Inc. Com",NNM,XNAS
+SMMT,Summit Therapeutics Inc. Commo,NNM,XNAS
+SMR,NuScale Power Corporation,NYSE,XNYS
+SMTC,Semtech Corporation Common Sto,NNM,XNAS
+SNAP,Snap Inc.,NYSE,XNYS
+SNDK,Sandisk Corporation Common Sto,NNM,XNAS
+SNDX,"Syndax Pharmaceuticals, Inc. C",NNM,XNAS
+SNOW,Snowflake Inc.,NYSE,XNYS
+SNYR,Synergy CHC Corp. Common Stock,SC,XNAS
+SO,The Southern Company,NYSE,XNYS
+SOAR,"Volato Group, Inc.",AMEX,XNYS
+SOC,Sable Offshore Corp.,NYSE,XNYS
+SOFI,"SoFi Technologies, Inc. Common",NNM,XNAS
+SOUN,"SoundHound AI, Inc Class A Com",NNM,XNAS
+SPCE,"Virgin Galactic Holdings, Inc.",NYSE,XNYS
+SPCX,Space Exploration Technologies,NNM,XNAS
+SPRY,"ARS Pharmaceuticals, Inc. Comm",NNM,XNAS
+SPWR,SunPower Inc. Common Stock,NNM,XNAS
+SRE,Sempra,NYSE,XNYS
+SRPT,"Sarepta Therapeutics, Inc. Com",NNM,XNAS
+SRRK,Scholar Rock Holding Corporati,NNM,XNAS
+STLA,Stellantis N.V.,NYSE,XNYS
+STM,STMicroelectronics N.V.,NYSE,XNYS
+STNE,StoneCo Ltd. Class A Common Sh,NNM,XNAS
+STUB,"StubHub Holdings, Inc.",NYSE,XNYS
+SU,"Suncor Energy, Inc.",NYSE,XNYS
+SUGP,SU Group Holdings Limited Clas,SC,XNAS
+SUNB,"Sunbelt Rentals Holdings, Inc.",NYSE,XNYS
+SURG,"SurgePays, Inc. Common Stock",SC,XNAS
+SUZ,Suzano S.A. American Depositar,NYSE,XNYS
+SVM,Silvercorp Metals Inc. Common,AMEX,XNYS
+SVRA,Savara Inc. Common Stock,NNM,XNAS
+SW,Smurfit Westrock plc,NYSE,XNYS
+SWKS,"Skyworks Solutions, Inc. Commo",NNM,XNAS
+SWVL,Swvl Holdings Corp Class A Com,SC,XNAS
+SYF,SYNCHRONY FINANCIAL,NYSE,XNYS
+T,AT&T Inc.,NYSE,XNYS
+TAL,TAL Education Group,NYSE,XNYS
+TAP,Molson Coors Beverage Company,NYSE,XNYS
+TDAY,"USA TODAY Co., Inc.",NYSE,XNYS
+TDOC,"Teladoc Health, Inc.",NYSE,XNYS
+TDUP,ThredUp Inc. Class A Common St,NNM,XNAS
+TE,T1 Energy Inc.,NYSE,XNYS
+TEAM,Atlassian Corporation Class A,NNM,XNAS
+TEM,"Tempus AI, Inc. Class A Common",NNM,XNAS
+TENB,"Tenable Holdings, Inc. Common",NNM,XNAS
+TENX,"Tenax Therapeutics, Inc. Commo",SC,XNAS
+TEVA,Teva Pharmaceutical Industries,NYSE,XNYS
+TFC,Truist Financial Corporation,NYSE,XNYS
+TGB,Trekor Metals Limited,AMEX,XNYS
+TGT,Target Corporation,NYSE,XNYS
+TGTX,"TG Therapeutics, Inc. Common S",SC,XNAS
+TJX,"TJX Companies, Inc. (The)",NYSE,XNYS
+TLRY,"Tilray Brands, Inc. Common Sto",NNM,XNAS
+TMC,TMC the metals company Inc. Co,NNM,XNAS
+TME,Tencent Music Entertainment Gr,NYSE,XNYS
+TNGX,"Tango Therapeutics, Inc.",NNM,XNAS
+TNMG,TNL Mediagene Ordinary Shares,SC,XNAS
+TNON,"Tenon Medical, Inc. Common Sto",SC,XNAS
+TNYA,"Tenaya Therapeutics, Inc. Comm",SC,XNAS
+TOST,"Toast, Inc.",NYSE,XNYS
+TRIP,"TripAdvisor, Inc. Common Stock",NNM,XNAS
+TRMB,Trimble Inc. Common Stock,NNM,XNAS
+TROW,"T. Rowe Price Group, Inc. Comm",NNM,XNAS
+TROX,TRONOX LIMITED CL A ORDINARY S,NYSE,XNYS
+TRP,TC Energy Corporation,NYSE,XNYS
+TRUG,"TruGolf Holdings, Inc. Class A",SC,XNAS
+TSCO,Tractor Supply Company Common,NNM,XNAS
+TSHA,"Taysha Gene Therapies, Inc. Co",NNM,XNAS
+TSLA,"Tesla, Inc. Common Stock",NNM,XNAS
+TSLQ,Investment Managers Series Tru,NNM,XNAS
+TSM,Taiwan Semiconductor Manufactu,NYSE,XNYS
+TTD,"The Trade Desk, Inc. Class A C",NNM,XNAS
+TU,Telus Corporation,NYSE,XNYS
+TXN,Texas Instruments Incorporated,NNM,XNAS
+UA,"Under Armour, Inc. Class C Com",NYSE,XNYS
+UAA,"Under Armour, Inc.",NYSE,XNYS
+UBER,"Uber Technologies, Inc.",NYSE,XNYS
+UCL,uCloudlink Group Inc. American,NNM,XNAS
+UEC,Uranium Energy Corp.,AMEX,XNYS
+UL,Unilever plc,NYSE,XNYS
+ULCC,"Frontier Group Holdings, Inc.",NNM,XNAS
+UMAC,"Unusual Machines, Inc.",AMEX,XNYS
+UNP,Union Pacific Corp.,NYSE,XNYS
+UPST,"Upstart Holdings, Inc. Common",NNM,XNAS
+UPWK,Upwork Inc. Common Stock,NNM,XNAS
+UPXI,"Upexi, Inc. Common Stock",SC,XNAS
+URG,Ur-Energy Inc.,AMEX,XNYS
+USAR,"USA Rare Earth, Inc. Class A C",NNM,XNAS
+USAS,Americas Gold and Silver Corpo,AMEX,XNYS
+USB,U.S. Bancorp,NYSE,XNYS
+USDE,StablecoinX Inc. Class A Commo,SC,XNAS
+UUUU,Energy Fuels Inc.,AMEX,XNYS
+UWMC,UWM Holdings Corporation,NYSE,XNYS
+V,VISA Inc.,NYSE,XNYS
+VALE,VALE S.A.,NYSE,XNYS
+VERA,"Vera Therapeutics, Inc. Class",NNM,XNAS
+VERI,"Veritone, Inc. Common Stock",NNM,XNAS
+VFC,V.F. Corporation,NYSE,XNYS
+VG,"Venture Global, Inc.",NYSE,XNYS
+VICI,VICI Properties Inc. Common St,NYSE,XNYS
+VIK,Viking Holdings Ltd,NYSE,XNYS
+VIR,"Vir Biotechnology, Inc. Common",NNM,XNAS
+VISN,"Vistance Networks, Inc. Common",NNM,XNAS
+VKTX,"Viking Therapeutics, Inc. Comm",SC,XNAS
+VLY,Valley National Bancorp Common,NNM,XNAS
+VMRK,Vivmark Residential,NYSE,XNYS
+VNET,"VNET Group, Inc. American Depo",NNM,XNAS
+VNRX,VolitionRx Limited,AMEX,XNYS
+VRDN,"Viridian Therapeutics, Inc. Co",SC,XNAS
+VRT,Vertiv Holdings Co Class A Com,NYSE,XNYS
+VST,Vistra Corp.,NYSE,XNYS
+VSTM,"Verastem, Inc. Common Stock",SC,XNAS
+VTR,"Ventas, Inc.",NYSE,XNYS
+VTRS,Viatris Inc. Common Stock,NNM,XNAS
+VVOS,"Vivos Therapeutics, Inc. Commo",SC,XNAS
+VYX,NCR Voyix Corporation,NYSE,XNYS
+VZ,Verizon Communications,NYSE,XNYS
+VZLA,Vizsla Silver Corp.,AMEX,XNYS
+WBD,"Warner Bros. Discovery, Inc. S",NNM,XNAS
+WDAY,"Workday, Inc. Class A Common S",NNM,XNAS
+WDC,Western Digital Corporation Co,NNM,XNAS
+WEAV,"Weave Communications, Inc.",NYSE,XNYS
+WELL,Welltower Inc.,NYSE,XNYS
+WEN,Wendy's Company (The) Common S,NNM,XNAS
+WETO,Wetour Robotics Limited Ordina,SC,XNAS
+WFC,Wells Fargo & Co.,NYSE,XNYS
+WFF,WF Holding Limited Ordinary Sh,SC,XNAS
+WHLR,Wheeler Real Estate Investment,SC,XNAS
+WIT,Wipro Limited,NYSE,XNYS
+WKSP,"Worksport, Ltd. Common Stock",SC,XNAS
+WMB,Williams Companies Inc.,NYSE,XNYS
+WMT,Walmart Inc. Common Stock,NNM,XNAS
+WOLF,"Wolfspeed, Inc.",NYSE,XNYS
+WOOF,Petco Health and Wellness Comp,NNM,XNAS
+WU,The Western Union Company,NYSE,XNYS
+WULF,TeraWulf Inc. Common Stock,SC,XNAS
+WY,Weyerhaeuser Company,NYSE,XNYS
+WYFI,"WhiteFiber, Inc. Ordinary Shar",SC,XNAS
+XE,"X-Energy, Inc. Class A Common",NNM,XNAS
+XEL,Xcel Energy Inc. Common Stock,NNM,XNAS
+XOM,ExxonMobil Holdings Corporatio,NYSE,XNYS
+XOS,"Xos, Inc. Common Stock",SC,XNAS
+XP,XP Inc. Class A Common Stock,NNM,XNAS
+XPON,"Expion Energy, Inc. Common Sto",SC,XNAS
+XRAY,DENTSPLY SIRONA Inc. Common St,NNM,XNAS
+XRX,Xerox Holdings Corporation Com,NNM,XNAS
+XTNT,"Xtant Medical Holdings, Inc.",AMEX,XNYS
+XYZ,"Block, Inc.",NYSE,XNYS
+YJ,Yunji Inc. American Depository,SC,XNAS
+YMM,Full Truck Alliance Co. Ltd. A,NYSE,XNYS
+YYGH,YY Group Holding Limited Class,SC,XNAS
+ZBAO,Zhibao Technology Inc. Class A,SC,XNAS
+ZCMD,Zhongchao Inc. Class A Ordinar,SC,XNAS
+ZETA,Zeta Global Holdings Corp.,NYSE,XNYS
+ZONE,CleanCore Solutions Inc.,AMEX,XNYS
+ZTS,ZOETIS INC.,NYSE,XNYS

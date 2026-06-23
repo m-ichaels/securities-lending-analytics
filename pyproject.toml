@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "slb"
+version = "0.1.0"
+description = "Securities lending and financing analytics for a long-short book: borrow-cost model, locate and recall simulation, borrow-aware optimiser, financing and prime-broker reconciliation"
+requires-python = ">=3.10"
+dependencies = ["numpy", "pandas", "pyarrow", "duckdb", "scipy", "matplotlib", "fpdf2"]
+
+[project.optional-dependencies]
+test = ["pytest"]
+
+[tool.setuptools]
+packages = ["slb"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]

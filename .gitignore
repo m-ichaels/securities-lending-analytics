@@ -1,0 +1,15 @@
+# raw downloads (550 MB; tools/download.py rebuilds them) - the universe's slice is committed under data/derived
+data/raw/finra/
+data/raw/ftd/
+data/raw/yahoo/
+data/raw/threshold/
+data/raw/*.log
+# rebuilt by `python -m slb build-store` and `python -m slb borrow`
+data/derived/*.duckdb
+data/derived/*.duckdb.wal
+data/derived/borrow.parquet
+__pycache__/
+*.pyc
+.pytest_cache/
+results/*.log
+results/tests.txt

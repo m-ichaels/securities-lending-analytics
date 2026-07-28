@@ -1,0 +1,23 @@
+name: ci
+on: [push, pull_request]
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install numpy pandas pyarrow duckdb scipy matplotlib fpdf2 pytest
+      - name: unit tests (loaders, borrow model, book simulation, optimiser, financing and reconciliation)
+        run: python -m pytest -q
+      - name: the store and the borrow table from the committed derived data
+        run: |
+          python -m slb build-store
+          python -m slb borrow
+          python -m slb fee-check
+      - name: a short pipeline (2024 on) and the summary
+        run: |
+          python -m slb run --quick --reuse
+          python scripts/plots.py
+          python scripts/summarize.py

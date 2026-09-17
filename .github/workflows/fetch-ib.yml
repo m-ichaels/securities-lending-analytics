@@ -1,0 +1,46 @@
+name: fetch-ib-shortstock
+# Interactive Brokers publishes its shortable-stock file (symbol, fee rate, rebate rate, shares available) on an
+# anonymous FTP server that many office networks block on port 21.  This job tries to fetch the US file from a GitHub
+# runner and commits the universe's slice when it succeeds, which is how the repository's borrow history would
+# accumulate.  As of September 2026 the server does not answer on port 21 from GitHub's runners either, so an
+# unreachable server is reported as a warning, not a failure: the job runs weekly and only fails on a real error.
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "45 21 * * 1"
+permissions:
+  contents: write
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        shell: bash
+    steps:
+      - uses: actions/checkout@v4
+      - name: download the IB shortable file (anonymous FTP, user shortstock)
+        id: fetch
+        run: |
+          d=$(date -u +%Y%m%d); mkdir -p data/raw/ib; ok=0
+          for h in ftp3.interactivebrokers.com ftp2.interactivebrokers.com ftp.interactivebrokers.com; do
+            for mode in "" "--disable-epsv" "--ftp-port -"; do
+              echo "trying $h $mode"
+              if curl -sS --connect-timeout 20 --max-time 120 $mode --user "shortstock:" -o usa_full.txt "ftp://$h/usa.txt"; then ok=1; break 2; fi
+              if curl -sS --connect-timeout 20 --max-time 120 $mode --user "anonymous:" -o usa_full.txt "ftp://$h/shortstock/usa.txt"; then ok=1; break 2; fi
+            done
+          done
+          if [ "$ok" != 1 ] || [ "$(wc -l < usa_full.txt)" -le 1000 ]; then
+            echo "::warning::IB shortable file not reachable from this runner (FTP port 21 timed out on every host); nothing fetched"
+            echo "fetched=false" >> "$GITHUB_OUTPUT"; exit 0
+          fi
+          # keep the universe's names (the full file is 15 MB a day; the slice is about 100 KB)
+          awk -F'|' 'NR==FNR{u[$1]=1; next} /^#/ || ($1 in u)' <(cut -d, -f1 data/universe.csv) usa_full.txt > "data/raw/ib/usa_${d}.txt"
+          ls -la data/raw/ib/; head -3 "data/raw/ib/usa_${d}.txt"; wc -l "data/raw/ib/usa_${d}.txt"
+          echo "fetched=true" >> "$GITHUB_OUTPUT"
+      - name: commit the snapshot
+        if: steps.fetch.outputs.fetched == 'true'
+        run: |
+          git config user.name "ib-fetch"; git config user.email "actions@users.noreply.github.com"
+          git add data/raw/ib/*.txt
+          git commit -m "IB shortable snapshot $(date -u +%Y-%m-%d)" || echo "nothing new"
+          git push

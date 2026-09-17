@@ -1,0 +1,938 @@
+{
+ "distribution_last_day": {
+  "date": "2026-09-17",
+  "n": 797,
+  "share_gc_below_1pct": 0.8456712672521958,
+  "share_special_above_5pct": 0.08030112923462986,
+  "mean_fee": 0.018870027180182013,
+  "quantiles": {
+   "p50": 0.003006504251879418,
+   "p75": 0.004600529699842952,
+   "p90": 0.03416837789768699,
+   "p95": 0.11197953116210863,
+   "p99": 0.2
+  },
+  "on_threshold": 12,
+  "mean_sir": 0.08746068282977028,
+  "utilisation_above_0_8": 123,
+  "fee_floor_binds": 101
+ },
+ "literature_targets": {
+  "share_gc_below_1pct": "0.85-0.92 (D'Avolio 2002: 91% of names GC; Engelberg et al 2018)",
+  "mean_fee": "0.5-1.5%",
+  "p99": "0.20-0.50"
+ },
+ "threshold_names": {
+  "mean_fee_on_threshold": 0.07422582024110126,
+  "mean_fee_off_threshold": 0.011536725690082829,
+  "n_days_on": 6676
+ },
+ "monthly": {
+  "2019-06": {
+   "mean_fee": 0.01148,
+   "p90_fee": 0.01014,
+   "share_special": 0.03119,
+   "share_floor": 0.00039,
+   "on_threshold": 27,
+   "mean_sir": 0.03263,
+   "mean_util": 0.28483,
+   "n": 515
+  },
+  "2019-07": {
+   "mean_fee": 0.0118,
+   "p90_fee": 0.01018,
+   "share_special": 0.03278,
+   "share_floor": 0.00414,
+   "on_threshold": 29,
+   "mean_sir": 0.03291,
+   "mean_util": 0.1497,
+   "n": 518
+  },
+  "2019-08": {
+   "mean_fee": 0.01168,
+   "p90_fee": 0.01004,
+   "share_special": 0.03084,
+   "share_floor": 0.00446,
+   "on_threshold": 20,
+   "mean_sir": 0.03318,
+   "mean_util": 0.1508,
+   "n": 521
+  },
+  "2019-09": {
+   "mean_fee": 0.01167,
+   "p90_fee": 0.01009,
+   "share_special": 0.03067,
+   "share_floor": 0.0045,
+   "on_threshold": 27,
+   "mean_sir": 0.03374,
+   "mean_util": 0.15221,
+   "n": 523
+  },
+  "2019-10": {
+   "mean_fee": 0.01166,
+   "p90_fee": 0.01018,
+   "share_special": 0.03091,
+   "share_floor": 0.00497,
+   "on_threshold": 46,
+   "mean_sir": 0.03373,
+   "mean_util": 0.15204,
+   "n": 526
+  },
+  "2019-11": {
+   "mean_fee": 0.01156,
+   "p90_fee": 0.01028,
+   "share_special": 0.03038,
+   "share_floor": 0.00322,
+   "on_threshold": 36,
+   "mean_sir": 0.03358,
+   "mean_util": 0.15179,
+   "n": 529
+  },
+  "2019-12": {
+   "mean_fee": 0.01185,
+   "p90_fee": 0.01032,
+   "share_special": 0.0321,
+   "share_floor": 0.00629,
+   "on_threshold": 38,
+   "mean_sir": 0.03345,
+   "mean_util": 0.15054,
+   "n": 530
+  },
+  "2020-01": {
+   "mean_fee": 0.01176,
+   "p90_fee": 0.01007,
+   "share_special": 0.03242,
+   "share_floor": 0.00376,
+   "on_threshold": 44,
+   "mean_sir": 0.03308,
+   "mean_util": 0.14991,
+   "n": 532
+  },
+  "2020-02": {
+   "mean_fee": 0.01176,
+   "p90_fee": 0.01017,
+   "share_special": 0.03152,
+   "share_floor": 0.00483,
+   "on_threshold": 25,
+   "mean_sir": 0.03255,
+   "mean_util": 0.14893,
+   "n": 536
+  },
+  "2020-03": {
+   "mean_fee": 0.01182,
+   "p90_fee": 0.01024,
+   "share_special": 0.03231,
+   "share_floor": 0.00516,
+   "on_threshold": 53,
+   "mean_sir": 0.03207,
+   "mean_util": 0.1463,
+   "n": 538
+  },
+  "2020-04": {
+   "mean_fee": 0.01199,
+   "p90_fee": 0.01028,
+   "share_special": 0.0353,
+   "share_floor": 0.00619,
+   "on_threshold": 61,
+   "mean_sir": 0.03198,
+   "mean_util": 0.14574,
+   "n": 539
+  },
+  "2020-05": {
+   "mean_fee": 0.01183,
+   "p90_fee": 0.01003,
+   "share_special": 0.03407,
+   "share_floor": 0.00565,
+   "on_threshold": 90,
+   "mean_sir": 0.03184,
+   "mean_util": 0.14429,
+   "n": 540
+  },
+  "2020-06": {
+   "mean_fee": 0.01185,
+   "p90_fee": 0.01035,
+   "share_special": 0.03306,
+   "share_floor": 0.00611,
+   "on_threshold": 91,
+   "mean_sir": 0.03232,
+   "mean_util": 0.14614,
+   "n": 547
+  },
+  "2020-07": {
+   "mean_fee": 0.01172,
+   "p90_fee": 0.01024,
+   "share_special": 0.03239,
+   "share_floor": 0.00545,
+   "on_threshold": 37,
+   "mean_sir": 0.03199,
+   "mean_util": 0.146,
+   "n": 554
+  },
+  "2020-08": {
+   "mean_fee": 0.01163,
+   "p90_fee": 0.0102,
+   "share_special": 0.03161,
+   "share_floor": 0.00436,
+   "on_threshold": 66,
+   "mean_sir": 0.03105,
+   "mean_util": 0.14408,
+   "n": 560
+  },
+  "2020-09": {
+   "mean_fee": 0.01167,
+   "p90_fee": 0.0102,
+   "share_special": 0.03193,
+   "share_floor": 0.00355,
+   "on_threshold": 65,
+   "mean_sir": 0.03069,
+   "mean_util": 0.14326,
+   "n": 570
+  },
+  "2020-10": {
+   "mean_fee": 0.01167,
+   "p90_fee": 0.01016,
+   "share_special": 0.03304,
+   "share_floor": 0.00444,
+   "on_threshold": 41,
+   "mean_sir": 0.0311,
+   "mean_util": 0.14586,
+   "n": 575
+  },
+  "2020-11": {
+   "mean_fee": 0.01164,
+   "p90_fee": 0.01013,
+   "share_special": 0.03275,
+   "share_floor": 0.00491,
+   "on_threshold": 68,
+   "mean_sir": 0.03061,
+   "mean_util": 0.14399,
+   "n": 584
+  },
+  "2020-12": {
+   "mean_fee": 0.0116,
+   "p90_fee": 0.01012,
+   "share_special": 0.03163,
+   "share_floor": 0.00335,
+   "on_threshold": 94,
+   "mean_sir": 0.02954,
+   "mean_util": 0.14307,
+   "n": 602
+  },
+  "2021-01": {
+   "mean_fee": 0.01148,
+   "p90_fee": 0.01017,
+   "share_special": 0.03127,
+   "share_floor": 0.00199,
+   "on_threshold": 45,
+   "mean_sir": 0.02887,
+   "mean_util": 0.14011,
+   "n": 610
+  },
+  "2021-02": {
+   "mean_fee": 0.01132,
+   "p90_fee": 0.01012,
+   "share_special": 0.031,
+   "share_floor": 0.0012,
+   "on_threshold": 14,
+   "mean_sir": 0.02644,
+   "mean_util": 0.13074,
+   "n": 614
+  },
+  "2021-03": {
+   "mean_fee": 0.01125,
+   "p90_fee": 0.01018,
+   "share_special": 0.03072,
+   "share_floor": 0.0,
+   "on_threshold": 37,
+   "mean_sir": 0.02527,
+   "mean_util": 0.12593,
+   "n": 624
+  },
+  "2021-04": {
+   "mean_fee": 0.01123,
+   "p90_fee": 0.01018,
+   "share_special": 0.03014,
+   "share_floor": 0.0,
+   "on_threshold": 49,
+   "mean_sir": 0.02668,
+   "mean_util": 0.1344,
+   "n": 638
+  },
+  "2021-05": {
+   "mean_fee": 0.01122,
+   "p90_fee": 0.01015,
+   "share_special": 0.03126,
+   "share_floor": 0.0,
+   "on_threshold": 76,
+   "mean_sir": 0.02679,
+   "mean_util": 0.13419,
+   "n": 641
+  },
+  "2021-06": {
+   "mean_fee": 0.01121,
+   "p90_fee": 0.01011,
+   "share_special": 0.03101,
+   "share_floor": 0.0,
+   "on_threshold": 106,
+   "mean_sir": 0.02725,
+   "mean_util": 0.13541,
+   "n": 651
+  },
+  "2021-07": {
+   "mean_fee": 0.0112,
+   "p90_fee": 0.01014,
+   "share_special": 0.03051,
+   "share_floor": 0.0,
+   "on_threshold": 85,
+   "mean_sir": 0.02692,
+   "mean_util": 0.13393,
+   "n": 660
+  },
+  "2021-08": {
+   "mean_fee": 0.01119,
+   "p90_fee": 0.01003,
+   "share_special": 0.03027,
+   "share_floor": 0.0,
+   "on_threshold": 64,
+   "mean_sir": 0.02611,
+   "mean_util": 0.1282,
+   "n": 661
+  },
+  "2021-09": {
+   "mean_fee": 0.01119,
+   "p90_fee": 0.01013,
+   "share_special": 0.03017,
+   "share_floor": 0.0,
+   "on_threshold": 67,
+   "mean_sir": 0.02596,
+   "mean_util": 0.12517,
+   "n": 665
+  },
+  "2021-10": {
+   "mean_fee": 0.01119,
+   "p90_fee": 0.01019,
+   "share_special": 0.02996,
+   "share_floor": 0.00014,
+   "on_threshold": 93,
+   "mean_sir": 0.02638,
+   "mean_util": 0.12652,
+   "n": 670
+  },
+  "2021-11": {
+   "mean_fee": 0.01118,
+   "p90_fee": 0.01017,
+   "share_special": 0.0307,
+   "share_floor": 0.00064,
+   "on_threshold": 98,
+   "mean_sir": 0.02659,
+   "mean_util": 0.12733,
+   "n": 677
+  },
+  "2021-12": {
+   "mean_fee": 0.01117,
+   "p90_fee": 0.01005,
+   "share_special": 0.03086,
+   "share_floor": 0.0,
+   "on_threshold": 90,
+   "mean_sir": 0.02565,
+   "mean_util": 0.12328,
+   "n": 682
+  },
+  "2022-01": {
+   "mean_fee": 0.01116,
+   "p90_fee": 0.01011,
+   "share_special": 0.03068,
+   "share_floor": 0.0,
+   "on_threshold": 24,
+   "mean_sir": 0.02634,
+   "mean_util": 0.12472,
+   "n": 688
+  },
+  "2022-02": {
+   "mean_fee": 0.01116,
+   "p90_fee": 0.01022,
+   "share_special": 0.03048,
+   "share_floor": 0.0,
+   "on_threshold": 10,
+   "mean_sir": 0.02682,
+   "mean_util": 0.12609,
+   "n": 690
+  },
+  "2022-03": {
+   "mean_fee": 0.01116,
+   "p90_fee": 0.01003,
+   "share_special": 0.03039,
+   "share_floor": 0.0,
+   "on_threshold": 16,
+   "mean_sir": 0.02845,
+   "mean_util": 0.13209,
+   "n": 691
+  },
+  "2022-04": {
+   "mean_fee": 0.01115,
+   "p90_fee": 0.01011,
+   "share_special": 0.03028,
+   "share_floor": 0.0,
+   "on_threshold": 10,
+   "mean_sir": 0.02849,
+   "mean_util": 0.13271,
+   "n": 696
+  },
+  "2022-05": {
+   "mean_fee": 0.01116,
+   "p90_fee": 0.01019,
+   "share_special": 0.03032,
+   "share_floor": 0.00109,
+   "on_threshold": 15,
+   "mean_sir": 0.02906,
+   "mean_util": 0.13454,
+   "n": 698
+  },
+  "2022-06": {
+   "mean_fee": 0.01118,
+   "p90_fee": 0.01021,
+   "share_special": 0.03095,
+   "share_floor": 0.00239,
+   "on_threshold": 18,
+   "mean_sir": 0.03029,
+   "mean_util": 0.13877,
+   "n": 700
+  },
+  "2022-07": {
+   "mean_fee": 0.01115,
+   "p90_fee": 0.01005,
+   "share_special": 0.02996,
+   "share_floor": 0.00043,
+   "on_threshold": 60,
+   "mean_sir": 0.03106,
+   "mean_util": 0.14181,
+   "n": 702
+  },
+  "2022-08": {
+   "mean_fee": 0.01115,
+   "p90_fee": 0.0101,
+   "share_special": 0.03012,
+   "share_floor": 0.00186,
+   "on_threshold": 40,
+   "mean_sir": 0.03055,
+   "mean_util": 0.13972,
+   "n": 705
+  },
+  "2022-09": {
+   "mean_fee": 0.01115,
+   "p90_fee": 0.01013,
+   "share_special": 0.03117,
+   "share_floor": 0.00088,
+   "on_threshold": 55,
+   "mean_sir": 0.02947,
+   "mean_util": 0.13508,
+   "n": 707
+  },
+  "2022-10": {
+   "mean_fee": 0.01114,
+   "p90_fee": 0.01018,
+   "share_special": 0.03109,
+   "share_floor": 0.0,
+   "on_threshold": 45,
+   "mean_sir": 0.03037,
+   "mean_util": 0.13814,
+   "n": 709
+  },
+  "2022-11": {
+   "mean_fee": 0.01114,
+   "p90_fee": 0.01019,
+   "share_special": 0.031,
+   "share_floor": 0.00013,
+   "on_threshold": 22,
+   "mean_sir": 0.03051,
+   "mean_util": 0.13865,
+   "n": 710
+  },
+  "2022-12": {
+   "mean_fee": 0.01113,
+   "p90_fee": 0.01005,
+   "share_special": 0.03092,
+   "share_floor": 0.0,
+   "on_threshold": 26,
+   "mean_sir": 0.02977,
+   "mean_util": 0.13528,
+   "n": 712
+  },
+  "2023-01": {
+   "mean_fee": 0.01113,
+   "p90_fee": 0.0101,
+   "share_special": 0.03081,
+   "share_floor": 0.0,
+   "on_threshold": 78,
+   "mean_sir": 0.02992,
+   "mean_util": 0.13593,
+   "n": 714
+  },
+  "2023-02": {
+   "mean_fee": 0.01113,
+   "p90_fee": 0.01013,
+   "share_special": 0.03077,
+   "share_floor": 0.00022,
+   "on_threshold": 118,
+   "mean_sir": 0.02937,
+   "mean_util": 0.13368,
+   "n": 715
+  },
+  "2023-03": {
+   "mean_fee": 0.01114,
+   "p90_fee": 0.01018,
+   "share_special": 0.03071,
+   "share_floor": 0.00061,
+   "on_threshold": 47,
+   "mean_sir": 0.02965,
+   "mean_util": 0.13466,
+   "n": 717
+  },
+  "2023-04": {
+   "mean_fee": 0.01114,
+   "p90_fee": 0.01018,
+   "share_special": 0.03068,
+   "share_floor": 0.00213,
+   "on_threshold": 76,
+   "mean_sir": 0.03066,
+   "mean_util": 0.1386,
+   "n": 717
+  },
+  "2023-05": {
+   "mean_fee": 0.01114,
+   "p90_fee": 0.01021,
+   "share_special": 0.03063,
+   "share_floor": 0.00203,
+   "on_threshold": 52,
+   "mean_sir": 0.03065,
+   "mean_util": 0.13886,
+   "n": 719
+  },
+  "2023-06": {
+   "mean_fee": 0.01118,
+   "p90_fee": 0.01023,
+   "share_special": 0.03144,
+   "share_floor": 0.00371,
+   "on_threshold": 41,
+   "mean_sir": 0.03152,
+   "mean_util": 0.14255,
+   "n": 720
+  },
+  "2023-07": {
+   "mean_fee": 0.01123,
+   "p90_fee": 0.01028,
+   "share_special": 0.03171,
+   "share_floor": 0.00333,
+   "on_threshold": 43,
+   "mean_sir": 0.03199,
+   "mean_util": 0.14479,
+   "n": 722
+  },
+  "2023-08": {
+   "mean_fee": 0.01119,
+   "p90_fee": 0.01057,
+   "share_special": 0.03047,
+   "share_floor": 0.00367,
+   "on_threshold": 28,
+   "mean_sir": 0.03123,
+   "mean_util": 0.14189,
+   "n": 722
+  },
+  "2023-09": {
+   "mean_fee": 0.01129,
+   "p90_fee": 0.01031,
+   "share_special": 0.03212,
+   "share_floor": 0.00498,
+   "on_threshold": 27,
+   "mean_sir": 0.03202,
+   "mean_util": 0.14531,
+   "n": 723
+  },
+  "2023-10": {
+   "mean_fee": 0.01132,
+   "p90_fee": 0.01013,
+   "share_special": 0.03305,
+   "share_floor": 0.00345,
+   "on_threshold": 110,
+   "mean_sir": 0.034,
+   "mean_util": 0.15379,
+   "n": 725
+  },
+  "2023-11": {
+   "mean_fee": 0.0113,
+   "p90_fee": 0.01015,
+   "share_special": 0.03317,
+   "share_floor": 0.00315,
+   "on_threshold": 56,
+   "mean_sir": 0.03476,
+   "mean_util": 0.15672,
+   "n": 727
+  },
+  "2023-12": {
+   "mean_fee": 0.01141,
+   "p90_fee": 0.01018,
+   "share_special": 0.03439,
+   "share_floor": 0.00413,
+   "on_threshold": 47,
+   "mean_sir": 0.03498,
+   "mean_util": 0.15709,
+   "n": 727
+  },
+  "2024-01": {
+   "mean_fee": 0.01144,
+   "p90_fee": 0.01018,
+   "share_special": 0.0335,
+   "share_floor": 0.00419,
+   "on_threshold": 49,
+   "mean_sir": 0.03488,
+   "mean_util": 0.15681,
+   "n": 730
+  },
+  "2024-02": {
+   "mean_fee": 0.01146,
+   "p90_fee": 0.01008,
+   "share_special": 0.03359,
+   "share_floor": 0.0041,
+   "on_threshold": 93,
+   "mean_sir": 0.03455,
+   "mean_util": 0.15641,
+   "n": 733
+  },
+  "2024-03": {
+   "mean_fee": 0.0114,
+   "p90_fee": 0.01036,
+   "share_special": 0.03211,
+   "share_floor": 0.00456,
+   "on_threshold": 48,
+   "mean_sir": 0.03492,
+   "mean_util": 0.15739,
+   "n": 737
+  },
+  "2024-04": {
+   "mean_fee": 0.01131,
+   "p90_fee": 0.0102,
+   "share_special": 0.03102,
+   "share_floor": 0.00375,
+   "on_threshold": 61,
+   "mean_sir": 0.03644,
+   "mean_util": 0.1639,
+   "n": 741
+  },
+  "2024-05": {
+   "mean_fee": 0.01144,
+   "p90_fee": 0.0103,
+   "share_special": 0.03253,
+   "share_floor": 0.00631,
+   "on_threshold": 75,
+   "mean_sir": 0.0378,
+   "mean_util": 0.17005,
+   "n": 742
+  },
+  "2024-06": {
+   "mean_fee": 0.01155,
+   "p90_fee": 0.01082,
+   "share_special": 0.03363,
+   "share_floor": 0.00729,
+   "on_threshold": 104,
+   "mean_sir": 0.03866,
+   "mean_util": 0.1738,
+   "n": 744
+  },
+  "2024-07": {
+   "mean_fee": 0.01134,
+   "p90_fee": 0.01063,
+   "share_special": 0.03167,
+   "share_floor": 0.00702,
+   "on_threshold": 80,
+   "mean_sir": 0.0397,
+   "mean_util": 0.17719,
+   "n": 745
+  },
+  "2024-08": {
+   "mean_fee": 0.01131,
+   "p90_fee": 0.01063,
+   "share_special": 0.03114,
+   "share_floor": 0.00841,
+   "on_threshold": 113,
+   "mean_sir": 0.0397,
+   "mean_util": 0.1778,
+   "n": 748
+  },
+  "2024-09": {
+   "mean_fee": 0.0114,
+   "p90_fee": 0.01071,
+   "share_special": 0.03155,
+   "share_floor": 0.00969,
+   "on_threshold": 97,
+   "mean_sir": 0.04054,
+   "mean_util": 0.18161,
+   "n": 748
+  },
+  "2024-10": {
+   "mean_fee": 0.01142,
+   "p90_fee": 0.01045,
+   "share_special": 0.03193,
+   "share_floor": 0.00726,
+   "on_threshold": 86,
+   "mean_sir": 0.04138,
+   "mean_util": 0.18534,
+   "n": 751
+  },
+  "2024-11": {
+   "mean_fee": 0.01145,
+   "p90_fee": 0.0103,
+   "share_special": 0.03281,
+   "share_floor": 0.00725,
+   "on_threshold": 125,
+   "mean_sir": 0.04092,
+   "mean_util": 0.18383,
+   "n": 753
+  },
+  "2024-12": {
+   "mean_fee": 0.01133,
+   "p90_fee": 0.01035,
+   "share_special": 0.03114,
+   "share_floor": 0.00575,
+   "on_threshold": 129,
+   "mean_sir": 0.04109,
+   "mean_util": 0.18409,
+   "n": 754
+  },
+  "2025-01": {
+   "mean_fee": 0.01135,
+   "p90_fee": 0.01037,
+   "share_special": 0.03205,
+   "share_floor": 0.00828,
+   "on_threshold": 130,
+   "mean_sir": 0.0429,
+   "mean_util": 0.19168,
+   "n": 756
+  },
+  "2025-02": {
+   "mean_fee": 0.0114,
+   "p90_fee": 0.0102,
+   "share_special": 0.03197,
+   "share_floor": 0.0089,
+   "on_threshold": 66,
+   "mean_sir": 0.04399,
+   "mean_util": 0.19676,
+   "n": 759
+  },
+  "2025-03": {
+   "mean_fee": 0.01138,
+   "p90_fee": 0.01062,
+   "share_special": 0.03342,
+   "share_floor": 0.01129,
+   "on_threshold": 88,
+   "mean_sir": 0.04629,
+   "mean_util": 0.20634,
+   "n": 762
+  },
+  "2025-04": {
+   "mean_fee": 0.01149,
+   "p90_fee": 0.01106,
+   "share_special": 0.03337,
+   "share_floor": 0.01487,
+   "on_threshold": 61,
+   "mean_sir": 0.04828,
+   "mean_util": 0.21517,
+   "n": 762
+  },
+  "2025-05": {
+   "mean_fee": 0.01168,
+   "p90_fee": 0.01163,
+   "share_special": 0.03427,
+   "share_floor": 0.0221,
+   "on_threshold": 123,
+   "mean_sir": 0.04984,
+   "mean_util": 0.22137,
+   "n": 764
+  },
+  "2025-06": {
+   "mean_fee": 0.01167,
+   "p90_fee": 0.01174,
+   "share_special": 0.03394,
+   "share_floor": 0.02319,
+   "on_threshold": 149,
+   "mean_sir": 0.05097,
+   "mean_util": 0.22673,
+   "n": 770
+  },
+  "2025-07": {
+   "mean_fee": 0.01173,
+   "p90_fee": 0.01212,
+   "share_special": 0.03358,
+   "share_floor": 0.03022,
+   "on_threshold": 174,
+   "mean_sir": 0.05305,
+   "mean_util": 0.23551,
+   "n": 774
+  },
+  "2025-08": {
+   "mean_fee": 0.01196,
+   "p90_fee": 0.01247,
+   "share_special": 0.03521,
+   "share_floor": 0.03294,
+   "on_threshold": 124,
+   "mean_sir": 0.05319,
+   "mean_util": 0.23734,
+   "n": 776
+  },
+  "2025-09": {
+   "mean_fee": 0.01231,
+   "p90_fee": 0.01233,
+   "share_special": 0.04354,
+   "share_floor": 0.0326,
+   "on_threshold": 178,
+   "mean_sir": 0.05507,
+   "mean_util": 0.24618,
+   "n": 783
+  },
+  "2025-10": {
+   "mean_fee": 0.01246,
+   "p90_fee": 0.01278,
+   "share_special": 0.04326,
+   "share_floor": 0.03572,
+   "on_threshold": 215,
+   "mean_sir": 0.05685,
+   "mean_util": 0.25512,
+   "n": 785
+  },
+  "2025-11": {
+   "mean_fee": 0.01249,
+   "p90_fee": 0.01278,
+   "share_special": 0.04264,
+   "share_floor": 0.03614,
+   "on_threshold": 73,
+   "mean_sir": 0.05683,
+   "mean_util": 0.25565,
+   "n": 785
+  },
+  "2025-12": {
+   "mean_fee": 0.01289,
+   "p90_fee": 0.01406,
+   "share_special": 0.04543,
+   "share_floor": 0.04457,
+   "on_threshold": 141,
+   "mean_sir": 0.05998,
+   "mean_util": 0.26988,
+   "n": 787
+  },
+  "2026-01": {
+   "mean_fee": 0.01272,
+   "p90_fee": 0.01376,
+   "share_special": 0.0446,
+   "share_floor": 0.03971,
+   "on_threshold": 123,
+   "mean_sir": 0.06156,
+   "mean_util": 0.27718,
+   "n": 787
+  },
+  "2026-02": {
+   "mean_fee": 0.01313,
+   "p90_fee": 0.01464,
+   "share_special": 0.04528,
+   "share_floor": 0.04988,
+   "on_threshold": 46,
+   "mean_sir": 0.06385,
+   "mean_util": 0.28791,
+   "n": 790
+  },
+  "2026-03": {
+   "mean_fee": 0.01387,
+   "p90_fee": 0.01654,
+   "share_special": 0.04914,
+   "share_floor": 0.05511,
+   "on_threshold": 74,
+   "mean_sir": 0.06661,
+   "mean_util": 0.30025,
+   "n": 793
+  },
+  "2026-04": {
+   "mean_fee": 0.01395,
+   "p90_fee": 0.01645,
+   "share_special": 0.05025,
+   "share_floor": 0.06045,
+   "on_threshold": 108,
+   "mean_sir": 0.06945,
+   "mean_util": 0.31321,
+   "n": 794
+  },
+  "2026-05": {
+   "mean_fee": 0.01486,
+   "p90_fee": 0.0186,
+   "share_special": 0.05703,
+   "share_floor": 0.0764,
+   "on_threshold": 50,
+   "mean_sir": 0.07222,
+   "mean_util": 0.32572,
+   "n": 796
+  },
+  "2026-06": {
+   "mean_fee": 0.01528,
+   "p90_fee": 0.01893,
+   "share_special": 0.05989,
+   "share_floor": 0.08386,
+   "on_threshold": 174,
+   "mean_sir": 0.07574,
+   "mean_util": 0.33897,
+   "n": 798
+  },
+  "2026-07": {
+   "mean_fee": 0.01681,
+   "p90_fee": 0.02598,
+   "share_special": 0.07238,
+   "share_floor": 0.10265,
+   "on_threshold": 263,
+   "mean_sir": 0.08078,
+   "mean_util": 0.36396,
+   "n": 801
+  },
+  "2026-08": {
+   "mean_fee": 0.01793,
+   "p90_fee": 0.02971,
+   "share_special": 0.07738,
+   "share_floor": 0.11857,
+   "on_threshold": 220,
+   "mean_sir": 0.08239,
+   "mean_util": 0.37365,
+   "n": 800
+  },
+  "2026-09": {
+   "mean_fee": 0.01848,
+   "p90_fee": 0.02967,
+   "share_special": 0.07923,
+   "share_floor": 0.11499,
+   "on_threshold": 190,
+   "mean_sir": 0.08353,
+   "mean_util": 0.38141,
+   "n": 801
+  }
+ },
+ "forward_return_by_fee_bucket": {
+  "1-5%": {
+   "mean_monthly_return": 0.013228285982164006,
+   "months": 87,
+   "avg_names": 29.689655172413794,
+   "t_stat": 1.2196095602117865
+  },
+  ">5%": {
+   "mean_monthly_return": 0.014804035772831294,
+   "months": 87,
+   "avg_names": 11.551724137931034,
+   "t_stat": 1.03515885373072
+  },
+  "gc": {
+   "mean_monthly_return": 0.009745236814642,
+   "months": 87,
+   "avg_names": 448.3333333333333,
+   "t_stat": 1.4325430927974574
+  },
+  "gc_minus_special": {
+   "mean_monthly": -0.005058798958189296,
+   "t_stat": -0.4801001476832041,
+   "months": 87
+  }
+ },
+ "fee_source": "quantile_map"
+}

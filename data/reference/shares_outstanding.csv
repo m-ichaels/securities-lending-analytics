@@ -1,0 +1,793 @@
+symbol,market_cap,price,shares_outstanding,sector,industry,as_of
+AA,12398465726.0,46.26,268016985,Industrials,Aluminum,2026-09-16
+AAL,8565891166.0,12.7,674479619,Consumer Discretionary,Air Freight/Delivery Services,2026-09-16
+AAOI,8325910699.0,96.74,86064820,Technology,Semiconductors,2026-09-16
+AAPL,4918238660000.0,332.41,14795700069,Technology,Computer Manufacturing,2026-09-16
+ABAT,319374178.0,2.12,150648197,Industrials,Mining & Quarrying of Nonmetallic Minerals (No Fuels),2026-09-16
+ABBV,466554305586.0,262.51,1777282030,Health Care,Biotechnology: Pharmaceutical Preparations,2026-09-16
+ABCL,4123317384.0,11.67,353326254,Health Care,Biotechnology: Pharmaceutical Preparations,2026-09-16
+ABEV,47127299880.0,2.99,15761638756,Consumer Staples,Beverages (Production/Distribution),2026-09-16
+ABNB,99356508214.0,167.51,593137772,Consumer Discretionary,Diversified Commercial Services,2026-09-16
+ABSI,1590861873.0,8.04,197868392,Health Care,Biotechnology: Commercial Physical & Biological Resarch,2026-09-16
+ABT,176931692016.0,102.36,1728523759,Health Care,Biotechnology: Pharmaceutical Preparations,2026-09-16
+ABUS,1003088523.0,5.05,198631391,Health Care,Biotechnology: Pharmaceutical Preparations,2026-09-16
+ACHC,2682218923.0,28.16,95249252,Health Care,Medical Specialities,2026-09-16
+ACHR,4206630820.0,5.22,805867973,Industrials,Aerospace,2026-09-16
+ACI,6098117207.0,12.56,485518886,Consumer Staples,Food Chains,2026-09-16
+ACN,127033868065.0,189.64,669868530,Consumer Discretionary,Business Services,2026-09-16
+ADBE,100436325000.0,250.5,400943413,Technology,Computer Software: Prepackaged Software,2026-09-16
+ADI,175727665882.0,362.04,485381908,Technology,Semiconductors,2026-09-16
+ADMA,2004662886.0,8.9,225243021,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),2026-09-16
+ADT,5106609144.0,7.03,726402439,Consumer Discretionary,Diversified Commercial Services,2026-09-16
+AEG,17380994394.0,9.02,1926939512,Finance,Life Insurance,2026-09-16
+AEHL,233078080.0,9.22,25279618,Consumer Discretionary,Telecommunications Equipment,2026-09-16
+AEMD,10875764.0,1.43,7605429,Health Care,Medical/Dental Instruments,2026-09-16
+AEO,2497680528.0,14.81,168648246,Consumer Discretionary,Clothing/Shoe/Accessory Stores,2026-09-16
+AEON,12156436.0,0.257,47301307,Health Care,Biotechnology: Pharmaceutical Preparations,2026-09-16
+AEP,66209605950.0,120.69,548592310,Utilities,Electric Utilities: Central,2026-09-16
+AES,10601698042.0,14.81,715847268,Industrials,Electric Utilities: Central,2026-09-16
+AESI,1675671261.0,13.57,123483512,Industrials,Mining & Quarrying of Nonmetallic Minerals (No Fuels),2026-09-16
+AFRM,23713965872.0,71.58,331293181,Finance,Finance: Consumer Services,2026-09-16
+AG,9604280873.0,18.33,523965132,Basic Materials,Precious Metals,2026-09-16
+AGI,15017963097.0,34.45,435935068,Basic Materials,Precious Metals,2026-09-16
+AGNC,11748121140.0,9.88,1189081087,Real Estate,Real Estate Investment Trusts,2026-09-16
+AGRZ,4848535.0,0.2301,21071425,Consumer Staples,Farming/Seeds/Milling,2026-09-16
+AHR,12389129676.0,53.14,233141319,Real Estate,Real Estate Investment Trusts,2026-09-16
+AI,1734814646.0,10.56,164281690,Technology,Computer Software: Prepackaged Software,2026-09-16
+AIM,7534793.0,0.212,35541476,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),2026-09-16
+AIXC,21953239.0,0.9602,22863194,Finance,Finance: Consumer Services,2026-09-16
+AIXI,275520.0,2.075,132781,Technology,Computer Software: Prepackaged Software,2026-09-16
+AKAM,15389174492.0,104.48,147293018,Consumer Discretionary,Business Services,2026-09-16
+AKBA,248148642.0,0.9178,270373330,Health Care,Biotechnology: Pharmaceutical Preparations,2026-09-16
+ALHC,1804685796.0,8.71,207196992,Health Care,Medical Specialities,2026-09-16
+ALLO,597699224.0,1.69,353668180,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),2026-09-16
+ALM,4076232998.0,13.47,302615664,Basic Materials,Other Metals and Minerals,2026-09-16
+ALT,630237351.0,3.24,194517701,Health Care,Biotechnology: Pharmaceutical Preparations,2026-09-16
+AMAT,331247572708.0,415.38,797456721,Technology,Semiconductors,2026-09-16
+AMC,2414495546.0,2.66,907705092,Consumer Discretionary,Movies/Entertainment,2026-09-16
+AMCR,19596522071.0,41.97,466917371,Consumer Discretionary,Miscellaneous manufacturing industries,2026-09-16
+AMD,889845820644.0,512.5,1736284528,Technology,Semiconductors,2026-09-16
+AMIX,8388535.0,4.12,2036052,Health Care,Medical/Dental Instruments,2026-09-16
+AMKR,11913296032.0,46.28,257417805,Technology,Semiconductors,2026-09-16
+AMLX,4258054125.0,32.63,130495070,Health Care,Biotechnology: Pharmaceutical Preparations,2026-09-16
+AMPX,1392878693.0,9.1,153063593,Miscellaneous,Industrial Machinery/Components,2026-09-16
+AMZN,2709414106151.0,245.96,11015669646,Consumer Discretionary,Catalog/Specialty Distribution,2026-09-16
+ANET,251658460139.0,197.54,1273962034,Telecommunications,Computer Communications Equipment,2026-09-16
+ANNX,790544989.0,3.93,201156486,Health Care,Biotechnology: Pharmaceutical Preparations,2026-09-16
+APA,15926979645.0,44.79,355592312,Energy,Oil & Gas Production,2026-09-16
+APH,193257827050.0,77.26,2501395639,Technology,Electrical Products,2026-09-16
+APLD,7688955175.0,24.39,315250315,Technology,EDP Services,2026-09-16
+APLE,3679348848.0,15.43,238454235,Real Estate,Real Estate Investment Trusts,2026-09-16
+APO,74414343466.0,124.53,597561579,Finance,Investment Managers,2026-09-16
+APP,107623761600.0,326.56,329568109,Technology,"Computer Software: Programming, Data Processing",2026-09-16
+APTV,9059042232.0,43.34,209022663,Consumer Discretionary,Auto Parts:O.E.M.,2026-09-16
+AQST,584884280.0,4.82,121345286,Health Care,Biotechnology: Pharmaceutical Preparations,2026-09-16
+ARCC,14109148904.0,19.37,728402112,Finance,Finance: Consumer Services,2026-09-16
+ARDX,842253993.0,3.39,248452505,Health Care,Biotechnology: Pharmaceutical Preparations,2026-09-16
+ARRY,652992614.0,4.2,155474432,Technology,Semiconductors,2026-09-16
+AS,14638768909.0,27.13,539578655,Consumer Discretionary,Apparel,2026-09-16
+ASAN,2308018779.0,9.65,239172930,Technology,Computer Software: Prepackaged Software,2026-09-16
+ASM,1067540378.0,5.97,178817484,Basic Materials,Metal Mining,2026-09-16
+ASPI,497488938.0,3.15,157932996,Industrials,Major Chemicals,2026-09-16
+ASST,2637465480.0,27.41,96222746,Finance,Finance: Consumer Services,2026-09-16
+ASTS,24404693549.0,59.27,411754573,Consumer Discretionary,Telecommunications Equipment,2026-09-16
+ASX,89053682652.0,37.95,2346605603,Technology,Semiconductors,2026-09-16
+AUR,13006967689.0,6.36,2045120706,Technology,EDP Services,2026-09-16
+AVGO,1657881652115.0,339.51,4883160002,Technology,Semiconductors,2026-09-16
+AVTR,10723669408.0,15.61,686974337,Industrials,Biotechnology: Laboratory Analytical Instruments,2026-09-16
+AXTI,4442585113.0,64.3,69091526,Technology,Semiconductors,2026-09-16
+AZI,78293076.0,1.21,64705021,Consumer Discretionary,Automotive Aftermarket,2026-09-16
+AZTR,10654138.0,0.1624,65604298,Health Care,Biotechnology: Pharmaceutical Preparations,2026-09-16
+B,71908690266.0,42.55,1689980970,Basic Materials,Precious Metals,2026-09-16
+BA,155742412441.0,201.96,771154746,Industrials,Aerospace,2026-09-16
+BABA,262863957813.0,107.27,2450489026,Consumer Discretionary,Business Services,2026-09-16
+BAC,406768172392.0,57.9,7025357036,Finance,Major Banks,2026-09-16
+BAM,72554491543.0,45.18,1605898441,Real Estate,Building operators,2026-09-16
+BAOS,9533756.0,0.2882,33080347,Consumer Discretionary,Business Services,2026-09-16
+BAX,11903832877.0,23.53,505900250,Health Care,Medical/Dental Instruments,2026-09-16
+BB,4650397265.0,7.64,608690741,Technology,Computer Software: Prepackaged Software,2026-09-16
+BBAI,1364161833.0,2.73,499692979,Technology,Computer Software: Prepackaged Software,2026-09-16
+BBD,38868549949.0,3.5,11105299985,Finance,Major Banks,2026-09-16
+BBIO,13158261875.0,68.3,192653907,Health Care,Biotechnology: Pharmaceutical Preparations,2026-09-16
+BBWI,3464266477.0,16.73,207069126,Consumer Discretionary,Other Specialty Stores,2026-09-16
+BBY,19833948400.0,91.49,216788156,Consumer Discretionary,Consumer Electronics/Video Chains,2026-09-16
+BCE,20786000461.0,22.5,923822243,Telecommunications,Telecommunications Equipment,2026-09-16
+BCRX,2223155414.0,8.43,263719503,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),2026-09-16
+BE,82570741451.0,270.02,305794909,Energy,Industrial Machinery/Components,2026-09-16
+BEAM,2548106696.0,23.1,110307649,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),2026-09-16
+BEEM,30554975.0,1.35,22633315,Miscellaneous,Industrial Machinery/Components,2026-09-16
+BEKE,18066140225.0,15.97,1131254867,Finance,Real Estate,2026-09-16
+BFLY,2118298631.0,7.26,291776671,Health Care,Medical Electronics,2026-09-16
+BHP,220094256529.0,84.14,2615810037,Energy,Coal Mining,2026-09-16
+BHVN,2097998118.0,12.02,174542273,Health Care,Biotechnology: Pharmaceutical Preparations,2026-09-16
+BIDU,30632946890.0,88.55,345939547,Technology,"Computer Software: Programming, Data Processing",2026-09-16
+BILI,5999380517.0,14.9,402642988,Technology,EDP Services,2026-09-16
+BIVI,15043043.0,1.72,8745955,Health Care,Biotechnology: Pharmaceutical Preparations,2026-09-16
+BKD,2766697864.0,11.67,237077795,Health Care,Hospital/Nursing Management,2026-09-16
+BKNG,128125402860.0,171.4,747522770,Consumer Discretionary,Transportation Services,2026-09-16
+BKR,56150608826.0,56.32,996992344,Consumer Discretionary,Oil and Gas Field Machinery,2026-09-16
+BLDP,765377739.0,2.1,364465590,Energy,Industrial Machinery/Components,2026-09-16
+BMNR,14405046289.0,22.81,631523292,Finance,Finance: Consumer Services,2026-09-16
+BMY,128343761836.0,63.6,2017983677,Health Care,Biotechnology: Pharmaceutical Preparations,2026-09-16
+BN,91167887538.0,37.03,2462000744,Real Estate,Building operators,2026-09-16
+BNL,3689142367.0,19.42,189966136,Real Estate,Real Estate Investment Trusts,2026-09-16
+BORR,1340038182.0,4.23,316793896,Energy,Oil & Gas Production,2026-09-16
+BP,118932578117.0,45.38,2620814855,Energy,Integrated oil Companies,2026-09-16
+BRLS,29833995.0,1.34,22264175,Consumer Staples,Packaged Foods,2026-09-16
+BRX,8609302825.0,27.98,307694883,Real Estate,Real Estate Investment Trusts,2026-09-16
+BSX,63128438153.0,43.91,1437677936,Health Care,Medical/Dental Instruments,2026-09-16
+BTBT,551769260.0,1.43,385852629,Finance,Finance: Consumer Services,2026-09-16
+BTCT,13688658.0,1.13,12113857,Finance,Finance: Consumer Services,2026-09-16
+BTDR,3054832434.0,11.03,276956703,Finance,Finance: Consumer Services,2026-09-16
+BTE,3431017920.0,4.89,701639656,Energy,Oil & Gas Production,2026-09-16
+BTG,7140387469.0,5.14,1389180441,Basic Materials,Precious Metals,2026-09-16
+BTI,121032687419.0,56.09,2157830048,Health Care, Medicinal Chemicals and Botanical Products ,2026-09-16
+BULL,4167138463.0,7.69,541890567,Finance,Investment Bankers/Brokers/Service,2026-09-16
+BW,1089679458.0,6.79,160482984,Industrials,Building Products,2026-09-16
+BX,94150908049.0,123.45,762664302,Finance,Investment Managers,2026-09-16
+BZ,6868036633.0,15.01,457564066,Technology,"Computer Software: Programming, Data Processing",2026-09-16
+BZAI,89100670.0,0.5883,151454479,Technology,Semiconductors,2026-09-16
+C,222562312368.0,132.95,1674030180,Finance,Major Banks,2026-09-16
+CABA,437427248.0,2.49,175673594,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),2026-09-16
+CAG,7292227163.0,15.18,480383871,Consumer Staples,Packaged Foods,2026-09-16
+CAI,8737843151.0,28.21,309742756,Health Care,Medical Specialities,2026-09-16
+CAN,227069034.0,0.3044,745956091,Finance,Finance: Consumer Services,2026-09-16
+CAPR,547669276.0,8.56,63980056,Health Care,Biotechnology: Pharmaceutical Preparations,2026-09-16
+CARR,44826796600.0,54.26,826148113,Industrials,Industrial Machinery/Components,2026-09-16
+CAST,67565108.0,1.38,48960223,Technology,EDP Services,2026-09-16
+CATX,328756789.0,2.7,121761774,Health Care,Biotechnology: Pharmaceutical Preparations,2026-09-16
+CBRS,46120682920.0,190.47,242141455,Technology,Semiconductors,2026-09-16
+CCC,3887365046.0,6.33,614117701,Technology,Computer Software: Prepackaged Software,2026-09-16
+CCCC,420130839.0,3.45,121777055,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),2026-09-16
+CCL,30378817459.0,22.35,1359231206,Consumer Discretionary,Marine Transportation,2026-09-16
+CCO,1211643351.0,2.39,506963745,Consumer Discretionary,Advertising,2026-09-16
+CDE,20548420610.0,18.98,1082635438,Basic Materials,Precious Metals,2026-09-16
+CDTG,3866880.0,1.2,3222400,Industrials,Miscellaneous,2026-09-16
+CELH,7171013232.0,28.25,253841176,Consumer Staples,Beverages (Production/Distribution),2026-09-16
+CELU,36761370.0,1.29,28497186,Health Care,Biotechnology: Pharmaceutical Preparations,2026-09-16
+CERS,536056229.0,2.53,211879932,Health Care,Medical/Dental Instruments,2026-09-16
+CERT,1308782732.0,8.13,160981886,Technology,Computer Software: Prepackaged Software,2026-09-16
+CG,14313888496.0,40.01,357757773,Finance,Investment Managers,2026-09-16
+CGC,397274681.0,0.9156,433895458,Health Care, Medicinal Chemicals and Botanical Products ,2026-09-16
+CHAI,6958182.0,0.2606,26700622,Telecommunications,Telecommunications Equipment,2026-09-16
+CHOW,19682754.0,0.518,37997595,Technology,Computer Software: Prepackaged Software,2026-09-16
+CHRS,190036188.0,1.22,155767367,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),2026-09-16
+CHWY,8404298777.0,20.91,401927249,Consumer Discretionary,Catalog/Specialty Distribution,2026-09-16
+CHYM,11630134610.0,31.25,372164308,Finance,Finance: Consumer Services,2026-09-16
+CIFR,7030620431.0,16.72,420491653,Finance,Finance: Consumer Services,2026-09-16
+CIG,6167139984.0,2.16,2855157400,Utilities,Electric Utilities: Central,2026-09-16
+CL,69931986424.0,87.02,803631193,Consumer Discretionary,Package Goods/Cosmetics,2026-09-16
+CLBK,1201748267.0,11.46,104864596,Finance,Savings Institutions,2026-09-16
+CLF,7277238299.0,12.15,598949654,Basic Materials,Metal Mining,2026-09-16
+CLGN,7865815.0,3.48,2260292,Health Care,Industrial Specialties,2026-09-16
+CLOV,2411449434.0,4.56,528826630,Health Care,Medical Specialities,2026-09-16
+CLSK,3428507925.0,12.79,268061605,Finance,Finance: Consumer Services,2026-09-16
+CLVT,1218559926.0,1.87,651636324,Technology,EDP Services,2026-09-16
+CMCSA,81299263887.0,23.73,3426011963,Telecommunications,Cable & Other Pay Television Services,2026-09-16
+CMG,42378848820.0,33.68,1258279359,Consumer Discretionary,Restaurants,2026-09-16
+CMPX,333162643.0,1.83,182056089,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),2026-09-16
+CNH,16777375361.0,13.52,1240930130,Industrials,Construction/Ag Equipment/Trucks,2026-09-16
+CNP,25420015914.0,38.33,663188518,Utilities,Electric Utilities: Central,2026-09-16
+CNQ,104714336600.0,50.07,2091358830,Energy,Oil & Gas Production,2026-09-16
+COGT,5759294153.0,32.54,176991216,Health Care,Biotechnology: Pharmaceutical Preparations,2026-09-16
+COHR,57960548182.0,289.93,199912214,Technology,Electronic Components,2026-09-16
+COIN,45899709494.0,164.51,279008629,Finance,Finance: Consumer Services,2026-09-16
+COMP,7935045014.0,10.33,768155374,Finance,Real Estate,2026-09-16
+COOT,13930784.0,0.4318,32262121,Consumer Staples,Packaged Foods,2026-09-16
+COP,160030165578.0,132.54,1207410333,Energy,Integrated oil Companies,2026-09-16
+CORZ,5507775159.0,16.88,326289998,Finance,Finance: Consumer Services,2026-09-16
+COTY,2170892134.0,2.63,825434271,Consumer Discretionary,Package Goods/Cosmetics,2026-09-16
+COUR,1364304000.0,5.24,260363359,Technology,Computer Software: Prepackaged Software,2026-09-16
+CP,79206266137.0,87.68,903356138,Industrials,Railroads,2026-09-16
+CPB,6316008227.0,21.39,295278552,Consumer Staples,Packaged Foods,2026-09-16
+CPNG,25983031652.0,14.4,1804377198,Consumer Discretionary,Catalog/Specialty Distribution,2026-09-16
+CPRI,1699659947.0,14.73,115387641,Consumer Discretionary,Apparel,2026-09-16
+CPRT,27459568556.0,30.82,890965884,Consumer Discretionary,Retail-Auto Dealers and Gas Stations,2026-09-16
+CRCL,21599759955.0,80.45,268486761,Finance,Finance: Consumer Services,2026-09-16
+CRDO,31622910204.0,161.49,195819619,Technology,Semiconductors,2026-09-16
+CRE,5981535.0,2.78,2151631,Consumer Discretionary,Publishing,2026-09-16
+CRGY,4658692114.0,14.4,323520286,Energy,Oil & Gas Production,2026-09-16
+CRH,58038422149.0,86.7,669416634,Industrials,Building Materials,2026-09-16
+CRK,3792109377.0,13.1,289473998,Energy,Oil & Gas Production,2026-09-16
+CRM,199989000000.0,250.1,799636146,Technology,Computer Software: Prepackaged Software,2026-09-16
+CRML,1009125733.0,6.48,155729280,Basic Materials,Metal Mining,2026-09-16
+CRSP,5542906333.0,52.21,106165607,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),2026-09-16
+CRVS,1055717847.0,12.23,86321983,Health Care,Biotechnology: Pharmaceutical Preparations,2026-09-16
+CRWD,251580790679.0,241.36,1042346663,Technology,Computer Software: Prepackaged Software,2026-09-16
+CRWV,44056743768.0,83.35,528575210,Technology,Computer Software: Prepackaged Software,2026-09-16
+CSCO,434630776880.0,107.74,4034070697,Telecommunications,Computer Communications Equipment,2026-09-16
+CSGP,11870263340.0,30.36,390983641,Finance,Real Estate,2026-09-16
+CSIQ,796846507.0,11.34,70268651,Technology,Semiconductors,2026-09-16
+CSX,88733548524.0,47.9,1852474917,Industrials,Railroads,2026-09-16
+CTMX,614475981.0,2.765,222233628,Health Care,Biotechnology: Pharmaceutical Preparations,2026-09-16
+CTSH,27873487653.0,61.85,450662694,Technology,EDP Services,2026-09-16
+CTVA,54389817920.0,81.01,671396345,Consumer Staples,Farming/Seeds/Milling,2026-09-16
+CVE,61725000000.0,32.52,1898062731,Energy,Oil & Gas Production,2026-09-16
+CVNA,72476543892.0,65.4,1108204035,Consumer Discretionary,Retail-Auto Dealers and Gas Stations,2026-09-16
+CVS,115439865506.0,91.72,1258611704,Consumer Staples,Retail-Drug Stores and Proprietary Stores,2026-09-16
+CVX,417994170727.0,211.54,1975958073,Energy,Integrated oil Companies,2026-09-16
+CX,15439605631.0,10.16,1519646224,Industrials,Building Materials,2026-09-16
+CYAB,5279121.0,0.2936,17980657,Technology,Computer Software: Prepackaged Software,2026-09-16
+CYPH,330836653.0,2.44,135588792,Health Care,Biotechnology: Pharmaceutical Preparations,2026-09-16
+CYTK,9720517387.0,69.39,140085277,Health Care,Biotechnology: Pharmaceutical Preparations,2026-09-16
+CZR,6044383437.0,29.67,203720372,Consumer Discretionary,Hotels/Resorts,2026-09-16
+D,56518337483.0,63.51,889912415,Utilities,Electric Utilities: Central,2026-09-16
+DAIC,10401801.0,2.01,5175025,Technology,EDP Services,2026-09-16
+DAL,52221844812.0,77.87,670628545,Consumer Discretionary,Air Freight/Delivery Services,2026-09-16
+DASH,84302446623.0,196.76,428453175,Consumer Discretionary,Business Services,2026-09-16
+DBRG,2983049921.0,15.88,187849491,Real Estate,Real Estate Investment Trusts,2026-09-16
+DBX,8488926209.0,37.74,224931802,Technology,Computer Software: Prepackaged Software,2026-09-16
+DCH,1452952141.0,6.0,242158690,Consumer Discretionary,Auto Parts:O.E.M.,2026-09-16
+DDD,588991211.0,3.14,187576819,Technology,Computer Software: Prepackaged Software,2026-09-16
+DEFT,187371409.0,0.5025,372878426,Finance,Finance: Consumer Services,2026-09-16
+DEI,1720911118.0,10.36,166111112,Real Estate,Real Estate Investment Trusts,2026-09-16
+DELL,374207594013.0,563.29,664324937,Technology,Computer Manufacturing,2026-09-16
+DIS,181923731995.0,106.99,1700380708,Consumer Discretionary,Services-Misc. Amusement & Recreation,2026-09-16
+DKNG,11155322459.0,24.33,458500718,Consumer Discretionary,Services-Misc. Amusement & Recreation,2026-09-16
+DKS,11021557351.0,123.65,89135118,Consumer Discretionary,Other Specialty Stores,2026-09-16
+DLO,4235222888.0,14.3,296169433,Consumer Discretionary,Business Services,2026-09-16
+DNN,2620600688.0,2.82,929291024,Basic Materials,Other Metals and Minerals,2026-09-16
+DNUT,529175000.0,3.11,170152733,Consumer Staples,Food Chains,2026-09-16
+DOC,14138756466.0,20.35,694779188,Real Estate,Real Estate Investment Trusts,2026-09-16
+DOW,21301827567.0,30.08,708172459,Industrials,Major Chemicals,2026-09-16
+DT,16134988806.0,55.19,292353484,Technology,Computer Software: Prepackaged Software,2026-09-16
+DUO,20006626.0,0.5303,37726996,Finance,Real Estate,2026-09-16
+DVLT,156610247.0,0.1767,886305869,Consumer Discretionary,Business Services,2026-09-16
+DVN,53592000000.0,48.44,1106358382,Energy,Oil & Gas Production,2026-09-16
+DX,3051212245.0,12.16,250922060,Real Estate,Real Estate Investment Trusts,2026-09-16
+DXC,1828667096.0,11.58,157915984,Technology,EDP Services,2026-09-16
+DXCM,33181332066.0,87.34,379909916,Health Care,Medical/Dental Instruments,2026-09-16
+DYN,3372640544.0,17.305,194893993,Health Care,Biotechnology: Pharmaceutical Preparations,2026-09-16
+EBAY,50240500000.0,109.17,460204269,Consumer Discretionary,Business Services,2026-09-16
+ECHO,27329365809.0,93.46,292417781,Consumer Discretionary,Telecommunications Equipment,2026-09-16
+EDIT,417737695.0,2.71,154146751,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),2026-09-16
+EHGO,5007280.0,0.8749,5723260,Consumer Discretionary,Diversified Commercial Services,2026-09-16
+EIX,21364872114.0,54.81,389798798,Utilities,Electric Utilities: Central,2026-09-16
+EL,33958413499.0,95.6,355213530,Consumer Discretionary,Package Goods/Cosmetics,2026-09-16
+ELAN,11358902305.0,22.86,496889865,Health Care,Biotechnology: Pharmaceutical Preparations,2026-09-16
+ENB,106486216694.0,48.36,2201948236,Energy,Natural Gas Distribution,2026-09-16
+ENPH,4759850221.0,35.56,133854056,Technology,Semiconductors,2026-09-16
+ENVX,645178693.0,2.92,220951607,Miscellaneous,Industrial Machinery/Components,2026-09-16
+EOSE,1449387621.0,3.935,368332305,Miscellaneous,Industrial Machinery/Components,2026-09-16
+EPD,83010302376.0,38.09,2179320094,Utilities,Natural Gas Distribution,2026-09-16
+EPOW,15479259.0,0.2722,56867226,Miscellaneous,Industrial Machinery/Components,2026-09-16
+EQT,31494730600.0,50.41,624771486,Energy,Oil & Gas Production,2026-09-16
+EQX,14278033623.0,11.58,1232990814,Basic Materials,Precious Metals,2026-09-16
+ERAS,5365349617.0,15.36,349306616,Health Care,Biotechnology: Pharmaceutical Preparations,2026-09-16
+ESI,8082009163.0,32.1,251775986,Industrials,Major Chemicals,2026-09-16
+ETR,48193701113.0,102.32,471009589,Utilities,Electric Utilities: Central,2026-09-16
+EU,188705107.0,0.8759,215441383,Basic Materials,Other Metals and Minerals,2026-09-16
+EVGO,462338108.0,1.39,332617344,Consumer Discretionary,Automotive Aftermarket,2026-09-16
+EVRG,18639050184.0,80.39,231857820,Utilities,Power Generation,2026-09-16
+EVTL,103120046.0,0.6033,170926647,Industrials,Aerospace,2026-09-16
+EXC,44015309153.0,42.44,1037118500,Utilities,Power Generation,2026-09-16
+EXEL,14492751165.0,56.78,255243944,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),2026-09-16
+EXK,3009539372.0,9.53,315796366,Basic Materials,Precious Metals,2026-09-16
+EYPT,343986431.0,3.45,99706212,Industrials,Biotechnology: Laboratory Analytical Instruments,2026-09-16
+F,53267712838.0,13.35,3990090849,Industrials,Auto Manufacturing,2026-09-16
+FAMI,4092025.0,0.1266,32322472,Consumer Staples,Packaged Foods,2026-09-16
+FAST,56433930640.0,49.03,1151008171,Consumer Discretionary,RETAIL: Building Materials,2026-09-16
+FCEL,1415988811.0,15.5,91354117,Energy,Industrial Machinery/Components,2026-09-16
+FCX,101727481329.0,69.24,1469201059,Basic Materials,Metal Mining,2026-09-16
+FE,26449631292.0,45.38,582847759,Utilities,Electric Utilities: Central,2026-09-16
+FGL,308277.0,4.35,70868,Consumer Discretionary,Engineering & Construction,2026-09-16
+FIG,12419129901.0,23.06,538557238,Technology,Computer Software: Prepackaged Software,2026-09-16
+FIGR,7563778065.0,33.29,227208713,Finance,Finance: Consumer Services,2026-09-16
+FIP,329727046.0,2.87,114887472,Industrials,Railroads,2026-09-16
+FIS,18792323615.0,36.85,509968076,Consumer Discretionary,Business Services,2026-09-16
+FISV,26216099345.0,49.45,530153677,Consumer Discretionary,Business Services,2026-09-16
+FITB,48305632421.0,52.41,921687320,Finance,Major Banks,2026-09-16
+FLG,5252999840.0,12.58,417567555,Finance,Banks,2026-09-16
+FLNC,1414008187.0,9.05,156243999,Miscellaneous,Industrial Machinery/Components,2026-09-16
+FLO,1294610537.0,6.15,210505778,Consumer Staples,Packaged Foods,2026-09-16
+FMC,1278566026.0,10.8,118385743,Industrials,Major Chemicals,2026-09-16
+FNB,6369902540.0,17.89,356059393,Finance,Major Banks,2026-09-16
+FNGR,10701619.0,0.1414,75683303,Technology,Computer Software: Prepackaged Software,2026-09-16
+FOXA,27268866682.0,66.16,412165458,Industrials,Broadcasting,2026-09-16
+FPS,11601784960.0,34.84,333001865,Energy,Industrial Machinery/Components,2026-09-16
+FRMI,3170313373.0,4.77,664635927,Real Estate,Real Estate Investment Trusts,2026-09-16
+FRSH,3318912220.0,12.73,260715807,Technology,Computer Software: Prepackaged Software,2026-09-16
+FRVO,4910754895.0,15.4,318880188,Utilities,Electric Utilities: Central,2026-09-16
+FSLY,3914001000.0,23.54,166270221,Technology,Computer Software: Prepackaged Software,2026-09-16
+FSM,3633369627.0,11.49,316220159,Basic Materials,Precious Metals,2026-09-16
+FTNT,126624302235.0,171.77,737173559,Technology,Computer peripheral equipment,2026-09-16
+FUN,1279465482.0,12.37,103432941,Consumer Discretionary,Services-Misc. Amusement & Recreation,2026-09-16
+GAP,7332764110.0,20.17,363548047,Consumer Discretionary,Clothing/Shoe/Accessory Stores,2026-09-16
+GAUZ,8068662.0,7.61,1060271,Miscellaneous,Industrial Machinery/Components,2026-09-16
+GE,325389979702.0,312.9,1039916841,Technology,Consumer Electronics/Appliances,2026-09-16
+GEHC,29108920510.0,63.49,458480399,Health Care,Medical Electronics,2026-09-16
+GEN,18083314237.0,30.65,589993939,Technology,Computer Software: Prepackaged Software,2026-09-16
+GENI,1735560816.0,6.62,262169308,Consumer Discretionary,Services-Misc. Amusement & Recreation,2026-09-16
+GERN,848064900.0,1.29,657414651,Health Care,Biotechnology: Pharmaceutical Preparations,2026-09-16
+GEVO,393106995.0,1.52,258623023,Industrials,Major Chemicals,2026-09-16
+GFL,19409253116.0,41.07,472589557,Utilities,Environmental Services,2026-09-16
+GGB,10078001960.0,4.99,2019639671,Industrials,Steel/Iron Ore,2026-09-16
+GILD,187096833338.0,147.68,1266907051,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),2026-09-16
+GIPR,1335263.0,0.364,3668305,Real Estate,Real Estate Investment Trusts,2026-09-16
+GIS,19604862738.0,36.81,532596108,Consumer Staples,Packaged Foods,2026-09-16
+GLPI,11668802925.0,40.35,289189664,Real Estate,Real Estate Investment Trusts,2026-09-16
+GLUE,1074948853.0,12.65,84976194,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),2026-09-16
+GLW,127278739789.0,144.16,882899138,Industrials,Telecommunications Equipment,2026-09-16
+GLXY,8709008925.0,22.27,391064613,Finance,Investment Bankers/Brokers/Service,2026-09-16
+GM,75987303451.0,84.29,901498439,Industrials,Auto Manufacturing,2026-09-16
+GME,11487487542.0,21.98,522633646,Consumer Discretionary,Electronics Distribution,2026-09-16
+GNS,28657763.0,0.152,188537914,Technology,Computer Software: Prepackaged Software,2026-09-16
+GO,1151361797.0,11.46,100467871,Consumer Staples,Food Chains,2026-09-16
+GOOG,4203206400000.0,339.36,12385685997,Technology,"Computer Software: Programming, Data Processing",2026-09-16
+GOOGL,4247845900000.0,342.87,12389085951,Technology,"Computer Software: Programming, Data Processing",2026-09-16
+GOSS,72960373.0,10.96,6656968,Health Care,Biotechnology: Pharmaceutical Preparations,2026-09-16
+GPGI,3574344711.0,11.92,299861133,Finance,Finance: Consumer Services,2026-09-16
+GPK,2913344278.0,9.66,301588435,Consumer Discretionary,Containers/Packaging,2026-09-16
+GPRO,247235908.0,1.27,194673943,Consumer Discretionary,Industrial Machinery/Components,2026-09-16
+GPUS,32153110.0,0.1782,180432716,Technology,Industrial Machinery/Components,2026-09-16
+GRAB,11522353810.0,2.87,4014757425,Consumer Discretionary,Business Services,2026-09-16
+GSUN,2429995.0,0.3003,8091891,Real Estate,Other Consumer Services,2026-09-16
+GT,1482678496.0,5.16,287340794,Consumer Discretionary,Automotive Aftermarket,2026-09-16
+GTM,1170262385.0,4.09,286127722,Technology,Computer Software: Prepackaged Software,2026-09-16
+GYGY,12607392.0,0.8803,14321699,Technology,Computer Software: Prepackaged Software,2026-09-16
+HAL,28351426389.0,34.51,821542347,Energy,Oilfield Services/Equipment,2026-09-16
+HBAN,32084187437.0,15.665,2048144745,Finance,Major Banks,2026-09-16
+HBM,11745408178.0,25.26,464980530,Basic Materials,Metal Mining,2026-09-16
+HD,301850996346.0,302.47,997953504,Consumer Discretionary,RETAIL: Building Materials,2026-09-16
+HDB,116271242104.0,22.38,5195319129,Finance,Commercial Banks,2026-09-16
+HE,1742825560.0,10.23,170364180,Utilities,Electric Utilities: Central,2026-09-16
+HIMS,6500111686.0,28.0,232146846,Health Care,Medical/Nursing Services,2026-09-16
+HIVE,853002521.0,2.9,294138800,Finance,Finance: Consumer Services,2026-09-16
+HL,12736729452.0,17.99,707989408,Industrials,Mining & Quarrying of Nonmetallic Minerals (No Fuels),2026-09-16
+HMY,12689006803.0,19.22,660198065,Basic Materials,Precious Metals,2026-09-16
+HOG,2758441798.0,26.84,102773539,Consumer Discretionary,Motor Vehicles,2026-09-16
+HOOD,98728224398.0,104.42,945491519,Finance,Investment Bankers/Brokers/Service,2026-09-16
+HOWL,46800901.0,0.919,50925899,Health Care,Biotechnology: Pharmaceutical Preparations,2026-09-16
+HPE,81054999406.0,56.5375,1433650222,Technology,Retail: Computer Software & Peripheral Equipment,2026-09-16
+HPQ,31247057076.0,32.7,955567495,Technology,Computer Manufacturing,2026-09-16
+HRL,11428034362.0,20.78,549953530,Consumer Staples,Meat/Poultry/Fish,2026-09-16
+HRTX,59936373.0,0.3178,188597775,Health Care,Biotechnology: Pharmaceutical Preparations,2026-09-16
+HST,15004224338.0,21.76,689532368,Real Estate,Real Estate Investment Trusts,2026-09-16
+HTZ,662999591.0,1.88,352659357,Consumer Discretionary,Rental/Leasing Companies,2026-09-16
+HUIZ,14653810.0,1.44,10176257,Finance,Specialty Insurers,2026-09-16
+HUMA,159761690.0,0.57,280283667,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),2026-09-16
+HUT,11215378993.0,89.82,124865052,Finance,Finance: Consumer Services,2026-09-16
+HYLN,725997691.0,3.94,184263373,Consumer Discretionary,Construction/Ag Equipment/Trucks,2026-09-16
+IAG,11508505000.0,19.48,590785678,Basic Materials,Precious Metals,2026-09-16
+IAUX,1510998437.0,1.65,915756628,Basic Materials,Precious Metals,2026-09-16
+IBM,223992451223.0,237.49,943165823,Technology,Computer Manufacturing,2026-09-16
+IBN,100903886393.0,28.15,3584507510,Finance,Commercial Banks,2026-09-16
+IEP,4997733104.0,6.96,718065101,Energy,Integrated oil Companies,2026-09-16
+IKT,320932570.0,2.31,138931848,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),2026-09-16
+IMO,63038765515.0,130.3,483797126,Energy,Integrated oil Companies,2026-09-16
+INDI,725561804.0,3.02,240252253,Technology,Semiconductors,2026-09-16
+INFQ,3125702311.0,12.84,243434759,Technology,EDP Services,2026-09-16
+INFY,44944469808.0,11.08,4056360091,Technology,EDP Services,2026-09-16
+INO,125110997.0,1.15,108792171,Health Care,Biotechnology: Pharmaceutical Preparations,2026-09-16
+INTC,575015562797.0,101.05,5690406361,Technology,Semiconductors,2026-09-16
+INTR,2405203063.0,5.45,441321663,Finance,Commercial Banks,2026-09-16
+INTU,83679608680.0,318.13,263035893,Technology,Computer Software: Prepackaged Software,2026-09-16
+INV,57824290.0,0.714,80986401,Finance,Blank Checks,2026-09-16
+INVZ,114035622.0,0.3077,370606506,Consumer Discretionary,Auto Parts:O.E.M.,2026-09-16
+IONQ,15381063416.0,36.84,417509865,Technology,EDP Services,2026-09-16
+IONS,7769117054.0,44.84,173263092,Health Care,Biotechnology: Pharmaceutical Preparations,2026-09-16
+IOT,23418352308.0,40.66,575955541,Technology,EDP Services,2026-09-16
+IOVA,4538773749.0,9.87,459855496,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),2026-09-16
+IP,18826209767.0,34.06,552736634,Basic Materials,Paper,2026-09-16
+IPSC,340421603.0,1.86,183022367,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),2026-09-16
+IPST,2063713.0,2.665,774376,Consumer Staples,Beverages (Production/Distribution),2026-09-16
+IQ,1061527209.0,1.08,982895564,Consumer Discretionary,Consumer Electronics/Video Chains,2026-09-16
+IREN,17133670015.0,42.62,402010090,Finance,Finance: Consumer Services,2026-09-16
+IRWD,698964976.0,4.17,167617500,Health Care,Biotechnology: Pharmaceutical Preparations,2026-09-16
+ITUB,91465020976.0,8.29,11033175027,Finance,Major Banks,2026-09-16
+IVF,2328724.0,0.9284,2508320,Health Care,Medical/Dental Instruments,2026-09-16
+IVVD,219948976.0,0.8053,273126755,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),2026-09-16
+JBLU,1679039205.0,4.3,390474234,Consumer Discretionary,Air Freight/Delivery Services,2026-09-16
+JBS,12910051349.0,12.22,1056469014,Consumer Staples,Meat/Poultry/Fish,2026-09-16
+JD,35804160000.0,26.9,1331009665,Consumer Discretionary,Other Specialty Stores,2026-09-16
+JHX,15038435052.0,26.84,560299369,Industrials,Building Materials,2026-09-16
+JNJ,651395590769.0,267.28,2437128071,Health Care,Biotechnology: Pharmaceutical Preparations,2026-09-16
+JOBY,6162021559.0,6.08,1013490388,Industrials,Aerospace,2026-09-16
+JPM,928637347223.0,348.92,2661462075,Finance,Major Banks,2026-09-16
+JUNS,3968748.0,2.93,1354522,Health Care,Biotechnology: Pharmaceutical Preparations,2026-09-16
+JZ,1737839.0,0.695,2500488,Real Estate,Other Consumer Services,2026-09-16
+KD,2819657415.0,12.84,219599487,Technology,EDP Services,2026-09-16
+KDP,42770762374.0,31.8,1344992527,Consumer Staples,Beverages (Production/Distribution),2026-09-16
+KEEL,2229439295.0,3.4,655717440,Finance,Finance: Consumer Services,2026-09-16
+KEY,22356343206.0,20.72,1078974093,Finance,Major Banks,2026-09-16
+KGC,34001997500.0,27.82,1222214145,Basic Materials,Precious Metals,2026-09-16
+KHC,29337279773.0,24.73,1186303266,Consumer Staples,Packaged Foods,2026-09-16
+KIM,15139716149.0,22.59,670195491,Real Estate,Real Estate Investment Trusts,2026-09-16
+KLAC,220780275391.0,167.36,1319193806,Technology,Electronic Components,2026-09-16
+KLAR,9843740761.0,14.0,703124340,Finance,Finance: Consumer Services,2026-09-16
+KMB,32655935741.0,98.1,332884156,Consumer Discretionary,Containers/Packaging,2026-09-16
+KMI,69765709448.0,30.73,2270280164,Utilities,Natural Gas Distribution,2026-09-16
+KNRX,9714100.0,0.315,30838413,Technology,"Computer Software: Programming, Data Processing",2026-09-16
+KO,378903999085.0,87.87,4312097406,Consumer Staples,Beverages (Production/Distribution),2026-09-16
+KOPN,879177464.0,4.34,202575453,Technology,Semiconductors,2026-09-16
+KOS,1688207491.0,2.87,588225607,Energy,Oil & Gas Production,2026-09-16
+KR,37230575327.0,61.14,608939734,Consumer Staples,Food Chains,2026-09-16
+KSS,1893386632.0,16.46,115029565,Consumer Discretionary,Department/Specialty Retail Stores,2026-09-16
+KVUE,34333825723.0,17.83,1925621185,Consumer Discretionary,Package Goods/Cosmetics,2026-09-16
+KVYO,4517200788.0,16.23,278324140,Technology,Computer Software: Prepackaged Software,2026-09-17
+LAC,1051009320.0,2.78,378060906,Basic Materials,Metal Mining,2026-09-17
+LAES,512380198.0,2.19,233963561,Technology,Semiconductors,2026-09-17
+LCID,1686620353.0,4.04,417480285,Industrials,Auto Manufacturing,2026-09-17
+LCTX,261759225.0,1.07,244634790,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),2026-09-17
+LDI,245331647.0,0.7042,348383481,Finance,Finance: Consumer Services,2026-09-17
+LEN,19196933866.0,78.36,244983842,Consumer Discretionary,Homebuilding,2026-09-17
+LGCL,1112550.0,3.28,339192,Technology,"Computer Software: Programming, Data Processing",2026-09-17
+LGHL,297629.0,5.75,51762,Finance,Investment Bankers/Brokers/Service,2026-09-17
+LGPS,20307709.0,0.833,24379002,Consumer Discretionary,Homebuilding,2026-09-17
+LI,10882675783.0,12.03,904628078,Industrials,Auto Manufacturing,2026-09-17
+LITE,80156817000.0,919.4,87183834,Telecommunications,Telecommunications Equipment,2026-09-17
+LNT,17278732341.0,66.11,261363369,Utilities,Power Generation,2026-09-17
+LOOP,25806090.0,0.4844,53274339,Industrials,Major Chemicals,2026-09-17
+LRCX,336993258510.0,269.23,1251692822,Technology,Industrial Machinery/Components,2026-09-17
+LUCY,7731919.0,0.8605,8985379,Health Care,Ophthalmic Goods,2026-09-17
+LULU,10494994021.0,95.98,109345635,Consumer Discretionary,Apparel,2026-09-17
+LUMN,6688923445.0,6.67,1002837098,Telecommunications,Telecommunications Equipment,2026-09-17
+LUNR,3385786966.0,13.87,244108649,Industrials,Industrial Machinery/Components,2026-09-17
+LUV,19729766746.0,39.15,503953174,Consumer Discretionary,Air Freight/Delivery Services,2026-09-17
+LVS,26342007153.0,41.06,641549127,Consumer Discretionary,Hotels/Resorts,2026-09-17
+LWLG,773919620.0,4.83,160231805,Industrials,Containers/Packaging,2026-09-17
+LXEO,342953346.0,4.16,82440708,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),2026-09-17
+LXRX,905485326.0,2.02,448260062,Health Care,Biotechnology: Pharmaceutical Preparations,2026-09-17
+LYFT,5867373860.0,15.69,373956269,Consumer Discretionary,Business Services,2026-09-17
+LYG,88036822649.0,5.88,14972248750,Finance,Commercial Banks,2026-09-17
+LYV,39667782162.0,171.13,231799113,Consumer Discretionary,Services-Misc. Amusement & Recreation,2026-09-17
+M,5653168503.0,21.81,259200757,Consumer Discretionary,Department/Specialty Retail Stores,2026-09-17
+MAC,6395681703.0,22.42,285266802,Real Estate,Real Estate Investment Trusts,2026-09-17
+MARA,4496523817.0,11.04,407293824,Finance,Finance: Consumer Services,2026-09-17
+MAT,3802667000.0,13.165,288846715,Consumer Discretionary,Recreational Games/Products/Toys,2026-09-17
+MBLY,6835508288.0,7.82,874105919,Technology,Computer Software: Prepackaged Software,2026-09-17
+MCD,175834767623.0,248.56,707413774,Consumer Discretionary,Restaurants,2026-09-17
+MCHP,38455875497.0,69.59,552606344,Technology,Semiconductors,2026-09-17
+MDLN,42228404643.0,32.99,1280036515,Health Care,Medical/Dental Instruments,2026-09-17
+MDLZ,79182151856.0,62.36,1269758689,Consumer Staples,Packaged Foods,2026-09-17
+MDT,118691204813.0,92.6,1281762471,Health Care,Biotechnology: Electromedical & Electrotherapeutic Apparatus,2026-09-17
+MERC,25761732.0,0.372,69251968,Basic Materials,Paper,2026-09-17
+META,1738188972380.0,673.31,2581558231,Technology,"Computer Software: Programming, Data Processing",2026-09-17
+MGM,9893776377.0,38.39,257717540,Consumer Discretionary,Hotels/Resorts,2026-09-17
+MGN,3441000.0,3.987,863055,Consumer Staples,Farming/Seeds/Milling,2026-09-17
+MGY,6881062317.0,26.1,263642234,Energy,Oil & Gas Production,2026-09-17
+MIMI,13834527.0,0.8741,15827167,Consumer Discretionary,Business Services,2026-09-17
+MIR,4044371387.0,15.84,255326476,Industrials,Industrial Machinery/Components,2026-09-17
+MIST,114488342.0,0.8892,128754321,Health Care,Biotechnology: Pharmaceutical Preparations,2026-09-17
+MMA,11252857.0,0.404,27853606,Consumer Discretionary,Other Consumer Services,2026-09-17
+MNKD,1151129253.0,3.55,324261761,Health Care,Biotechnology: Pharmaceutical Preparations,2026-09-17
+MNST,130796221838.0,44.57,2934624677,Consumer Staples,Beverages (Production/Distribution),2026-09-17
+MO,116414546521.0,70.1,1660692532,Health Care, Medicinal Chemicals and Botanical Products ,2026-09-17
+MOS,8068191495.0,24.79,325461537,Industrials,Agricultural Chemicals,2026-09-17
+MP,8796437431.0,48.99,179555775,Basic Materials,Metal Mining,2026-09-17
+MRK,363007298957.0,144.91,2505053474,Health Care,Biotechnology: Pharmaceutical Preparations,2026-09-17
+MRNA,63107216974.0,145.62,433369159,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),2026-09-17
+MRVI,1887827254.0,6.84,275998137,Health Care,Biotechnology: Pharmaceutical Preparations,2026-09-17
+MRVL,211122444000.0,229.71,919082513,Technology,Semiconductors,2026-09-17
+MSFT,3696065268145.0,490.3,7538375012,Technology,Computer Software: Prepackaged Software,2026-09-17
+MSS,1308669.0,1.52,860966,Consumer Staples,Food Chains,2026-09-17
+MSTR,50813855570.0,126.18,402709269,Technology,Computer Software: Prepackaged Software,2026-09-17
+MU,1103981805103.0,926.55,1191497280,Technology,Semiconductors,2026-09-17
+MVST,246140524.0,0.5856,420321933,Miscellaneous,Industrial Machinery/Components,2026-09-17
+NAK,708273294.0,1.24,571188140,Basic Materials,Precious Metals,2026-09-17
+NBIS,59261718972.0,209.37,283047805,Technology,"Computer Software: Programming, Data Processing",2026-09-17
+NCLH,6610009043.0,14.53,454921476,Consumer Discretionary,Marine Transportation,2026-09-17
+NCNO,2263811485.0,21.7,104323110,Technology,Computer Software: Prepackaged Software,2026-09-17
+NCPL,4453683.0,0.4238,10508926,Finance,Finance: Consumer Services,2026-09-17
+NCRA,4704773.0,1.99,2364208,Consumer Staples,Farming/Seeds/Milling,2026-09-17
+NEE,169506589263.0,80.37,2109077881,Utilities,Electric Utilities: Central,2026-09-17
+NEM,131058244667.0,121.76,1076365347,Basic Materials,Precious Metals,2026-09-17
+NEXT,1863298031.0,7.06,263923234,Utilities,Oil & Gas Production,2026-09-17
+NFE,70894520.0,12.51,5667028,Utilities,Oil/Gas Transmission,2026-09-17
+NFLX,313586297000.0,76.41,4103995511,Consumer Discretionary,Consumer Electronics/Video Chains,2026-09-17
+NG,3262333865.0,6.99,466714430,Basic Materials,Precious Metals,2026-09-17
+NI,19609212489.0,40.66,482272811,Utilities,Power Generation,2026-09-17
+NKE,53977100309.0,35.78,1508583016,Consumer Discretionary,Shoe Manufacturing,2026-09-17
+NLY,16057886187.0,21.23,756377117,Real Estate,Real Estate Investment Trusts,2026-09-17
+NOG,2683439789.0,25.32,105981034,Energy,Oil & Gas Production,2026-09-17
+NOK,60896451976.0,10.14,6005567256,Technology,Radio And Television Broadcasting And Communications Equipment,2026-09-17
+NOV,7320278297.0,20.55,356217922,Consumer Discretionary,Oil and Gas Field Machinery,2026-09-17
+NOW,143198660000.0,139.82,1024164354,Technology,Computer Software: Prepackaged Software,2026-09-17
+NRGV,768272183.0,3.97,193519442,Miscellaneous,Industrial Machinery/Components,2026-09-17
+NRIX,2646432917.0,25.15,105225961,Health Care,Biotechnology: Pharmaceutical Preparations,2026-09-17
+NTLA,1717953256.0,11.49,149517255,Health Care,Biotechnology: In Vitro & In Vivo Diagnostic Substances,2026-09-17
+NU,67178244699.0,13.81,4864463773,Finance,Finance: Consumer Services,2026-09-17
+NUAI,619109760.0,5.41,114438033,Energy,Oil & Gas Production,2026-09-17
+NUVB,2135882626.0,5.78,369529866,Health Care,Biotechnology: Pharmaceutical Preparations,2026-09-17
+NVAX,1649457260.0,9.35,176412541,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),2026-09-17
+NVDA,5286094000000.0,213.9,24712921926,Technology,Semiconductors,2026-09-17
+NVO,191286598464.0,41.71,4586108810,Health Care,Biotechnology: Pharmaceutical Preparations,2026-09-17
+NVTS,2908581456.0,10.48,277536398,Technology,Semiconductors,2026-09-17
+NWL,2389299000.0,5.69,419911951,Industrials,Plastic Products,2026-09-17
+NXE,6339635185.0,9.38,675867291,Basic Materials,Other Metals and Minerals,2026-09-17
+O,54232486561.0,57.15,948949896,Real Estate,Real Estate Investment Trusts,2026-09-17
+OBAI,8671920.0,0.26,33353538,Consumer Discretionary,Telecommunications Equipment,2026-09-17
+OBDC,5594702445.0,11.11,503573577,Finance,Diversified Financial Services,2026-09-17
+OCGN,349283713.0,0.9984,349843463,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),2026-09-17
+OCUL,2226904902.0,9.87,225623597,Health Care,Biotechnology: Pharmaceutical Preparations,2026-09-17
+OFAL,15276885.0,0.5535,27600515,Consumer Discretionary,Military/Government/Technical,2026-09-17
+OGG,839524863.0,2.64,318001842,Basic Materials,Precious Metals,2026-09-17
+OKE,58781971448.0,92.7,634109724,Utilities,Oil & Gas Production,2026-09-17
+OKLO,7368159117.0,35.62,206854551,Utilities,Electric Utilities: Central,2026-09-17
+OKTA,33219472739.0,188.12,176586608,Technology,Computer Software: Prepackaged Software,2026-09-17
+OMC,21563593006.0,79.33,271821417,Consumer Discretionary,Advertising,2026-09-17
+ON,26590461268.0,66.6,399256175,Technology,Semiconductors,2026-09-17
+ONB,9686672400.0,25.31,382721154,Finance,Major Banks,2026-09-17
+ONDS,4224132949.0,7.2,586685132,Technology,Radio And Television Broadcasting And Communications Equipment,2026-09-17
+ONON,16482719677.0,27.15,607098331,Consumer Discretionary,Shoe Manufacturing,2026-09-17
+OPEN,2485993088.0,2.59,959842891,Finance,Real Estate,2026-09-17
+OPK,1209051725.0,1.61,750963804,Health Care,Biotechnology: Pharmaceutical Preparations,2026-09-17
+OPTT,17333909.0,1.82,9524126,Utilities,Electric Utilities: Central,2026-09-17
+OPTU,476086173.0,1.01,471372449,Telecommunications,Cable & Other Pay Television Services,2026-09-17
+ORBS,389593213.0,0.834,467138145,Finance,Finance Companies,2026-09-17
+ORC,1214586920.0,6.05,200758169,Real Estate,Real Estate Investment Trusts,2026-09-17
+ORCL,455314166880.0,143.16,3180456600,Technology,Computer Software: Prepackaged Software,2026-09-17
+ORIC,1335046209.0,12.54,106463015,Health Care,Biotechnology: Pharmaceutical Preparations,2026-09-17
+ORLY,68672681633.0,83.68,820658241,Consumer Discretionary,Auto & Home Supply Stores,2026-09-17
+OSCR,9867380650.0,32.34,305113811,Health Care,Medical Specialities,2026-09-17
+OTLK,165787784.0,0.6769,244922121,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),2026-09-17
+OVID,527304214.0,2.68,196755304,Health Care,Biotechnology: Pharmaceutical Preparations,2026-09-17
+OWL,15528558541.0,10.12,1534442544,Finance,Investment Managers,2026-09-17
+OXY,59268499727.0,59.36,998458553,Energy,Oil & Gas Production,2026-09-17
+PAAS,20569198980.0,47.56,432489466,Basic Materials,Precious Metals,2026-09-17
+PACB,428946447.0,1.34,320109289,Industrials,Biotechnology: Laboratory Analytical Instruments,2026-09-17
+PAGP,5486891838.0,27.68,198225861,Energy,Natural Gas Distribution,2026-09-17
+PAGS,2775972121.0,9.47,293133276,Technology,EDP Services,2026-09-17
+PALI,296259949.0,1.69,175301745,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),2026-09-17
+PANW,306799080000.0,375.65,816715240,Technology,Computer peripheral equipment,2026-09-17
+PASW,16764430.0,0.134,125107687,Consumer Discretionary,Apparel,2026-09-17
+PATH,7176309982.0,13.63,526508436,Technology,Computer Software: Prepackaged Software,2026-09-17
+PAYX,41475284909.0,116.72,355340001,Industrials,Diversified Commercial Services,2026-09-17
+PBR,134977253850.0,20.91,6455153221,Energy,Oil & Gas Production,2026-09-17
+PCG,35833077332.0,13.35,2684125643,Utilities,Power Generation,2026-09-17
+PCT,1143148369.0,5.52,207092096,Industrials,Major Chemicals,2026-09-17
+PDD,110640606991.0,78.76,1404781704,Consumer Discretionary,Business Services,2026-09-17
+PEP,182431405642.0,134.34,1357982772,Consumer Staples,Beverages (Production/Distribution),2026-09-17
+PFE,157510479632.0,27.46,5735997073,Health Care,Biotechnology: Pharmaceutical Preparations,2026-09-17
+PFSA,1090165.0,1.78,612452,Health Care,Medical/Dental Instruments,2026-09-17
+PG,342877120681.0,147.02,2332180116,Consumer Discretionary,Package Goods/Cosmetics,2026-09-17
+PGEN,2817737394.0,7.435,378982837,Health Care,Biotechnology: Pharmaceutical Preparations,2026-09-17
+PINS,10366359959.0,18.65,555836995,Technology,"Computer Software: Programming, Data Processing",2026-09-17
+PK,3033161941.0,14.88,203841528,Consumer Discretionary,Hotels/Resorts,2026-09-17
+PL,6179958093.0,16.02,385765174,Technology,Radio And Television Broadcasting And Communications Equipment,2026-09-17
+PLD,128160913680.0,133.74,958284086,Real Estate,Real Estate Investment Trusts,2026-09-17
+PLTR,423337905315.0,174.34,2428231647,Technology,Computer Software: Prepackaged Software,2026-09-17
+PLUG,2962053989.0,2.02,1466363361,Energy,Industrial Machinery/Components,2026-09-17
+PM,296931446264.0,191.71,1548857369,Health Care, Medicinal Chemicals and Botanical Products ,2026-09-17
+PMI,13143123.0,6.48,2028260,Health Care,Medical/Dental Instruments,2026-09-17
+PNR,8895026574.0,56.46,157545635,Industrials,Industrial Machinery/Components,2026-09-17
+POET,1299666241.0,7.4,175630573,Technology,Semiconductors,2026-09-17
+PONY,2982765885.0,6.55,455384105,Technology,EDP Services,2026-09-17
+PPCB,2207593.0,0.647,3412045,Health Care,Biotechnology: Pharmaceutical Preparations,2026-09-17
+PPL,25281743933.0,33.41,756711881,Utilities,Electric Utilities: Central,2026-09-17
+PR,19422947503.0,22.95,846315795,Energy,Oil & Gas Production,2026-09-17
+PRGO,1871303269.0,13.54,138205559,Health Care,Biotechnology: Pharmaceutical Preparations,2026-09-17
+PRMB,7654729201.0,21.15,361925731,Consumer Staples,Beverages (Production/Distribution),2026-09-17
+PRME,569523328.0,3.0,189841109,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),2026-09-17
+PROK,544180779.0,1.85,294151772,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),2026-09-17
+PRZO,18277050.0,0.6679,27364950,Industrials,Military/Government/Technical,2026-09-17
+PSEC,1175624791.0,2.2,534374905,Finance,Finance: Consumer Services,2026-09-17
+PSKY,11915064173.0,11.135,1070055157,Industrials,Broadcasting,2026-09-17
+PSNL,1733361923.0,16.11,107595402,Health Care,Medical Specialities,2026-09-17
+PTEN,4588060034.0,12.03,381384874,Energy,Oil & Gas Production,2026-09-17
+PTON,2150471825.0,4.84,444312361,Consumer Discretionary,Recreational Games/Products/Toys,2026-09-17
+PURR,3052504465.0,11.44,266827313,Finance,Finance: Consumer Services,2026-09-17
+PYPL,45288098670.0,52.71,859193676,Industrials,Diversified Commercial Services,2026-09-17
+QBTS,6715595049.0,16.27,412759376,Technology,EDP Services,2026-09-17
+QCOM,198189643232.0,184.84,1072222697,Technology,Radio And Television Broadcasting And Communications Equipment,2026-09-17
+QFIN,1009323118.0,8.18,123389134,Finance,Finance: Consumer Services,2026-09-17
+QS,3200816831.0,5.0,640163366,Miscellaneous,Industrial Machinery/Components,2026-09-17
+QSR,33299594046.0,74.95,444290781,Consumer Discretionary,Restaurants,2026-09-17
+QTEX,48699815.0,0.8286,58773612,Health Care,Medical/Dental Instruments,2026-09-17
+QUBT,1910367507.0,8.0,238795938,Technology,Computer Software: Prepackaged Software,2026-09-17
+QXO,12076391853.0,11.27,1071552072,Consumer Discretionary,RETAIL: Building Materials,2026-09-17
+RBLX,33940000957.0,47.43,715580876,Technology,Computer Software: Prepackaged Software,2026-09-17
+RBRK,22364002232.0,104.98,213031075,Technology,Computer Software: Prepackaged Software,2026-09-17
+RC,270087272.0,1.58,170941311,Real Estate,Real Estate Investment Trusts,2026-09-17
+RCAT,1083508398.0,7.095,152714362,Technology,Computer Software: Prepackaged Software,2026-09-17
+RCI,18983481129.0,35.9,528787775,Telecommunications,Cable & Other Pay Television Services,2026-09-17
+RDDT,29419350344.0,157.6,186671005,Technology,EDP Services,2026-09-17
+RDHL,3604769.0,0.55,6554125,Health Care,Biotechnology: Pharmaceutical Preparations,2026-09-17
+RDW,2884914708.0,10.79,267369296,Industrials,Military/Government/Technical,2026-09-17
+RDY,10161948610.0,11.68,870029847,Health Care,Biotechnology: Pharmaceutical Preparations,2026-09-17
+REPL,1212606690.0,12.96,93565331,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),2026-09-17
+RF,24271471626.0,28.47,852527981,Finance,Major Banks,2026-09-17
+RGTI,5336962265.0,14.79,360849376,Technology,EDP Services,2026-09-17
+RHI,3817072566.0,37.09,102913793,Consumer Discretionary,Professional Services,2026-09-17
+RIG,6315956881.0,5.54,1140064419,Energy,Oil & Gas Production,2026-09-17
+RIOT,8210665498.0,20.35,403472506,Finance,Finance: Consumer Services,2026-09-17
+RITM,5304866795.0,9.48,559585105,Real Estate,Real Estate Investment Trusts,2026-09-17
+RIVN,22297053702.0,15.23,1464021911,Industrials,Auto Manufacturing,2026-09-17
+RKLB,42574665499.0,63.7,668362096,Industrials,Military/Government/Technical,2026-09-17
+RKT,35593745232.0,12.95,2748551755,Finance,Finance: Consumer Services,2026-09-17
+RLAY,4205327899.0,18.84,223212733,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),2026-09-17
+ROIV,28878474140.0,39.57,729807282,Health Care,Biotechnology: Pharmaceutical Preparations,2026-09-17
+ROL,15885015513.0,33.53,473755309,Consumer Discretionary,Diversified Commercial Services,2026-09-17
+RR,384924323.0,1.61,239083430,Industrials,Industrial Machinery/Components,2026-09-17
+RRC,9141542627.0,38.85,235303543,Energy,Oil & Gas Production,2026-09-17
+RTX,260831633608.0,196.83,1325161986,Industrials,Aerospace,2026-09-17
+RUM,4407752625.0,8.3,531054533,Technology,"Computer Software: Programming, Data Processing",2026-09-17
+RUN,2101389918.0,8.27,254097934,Miscellaneous,Industrial Machinery/Components,2026-09-17
+RXRX,1895111282.0,3.19,594078772,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),2026-09-17
+RXT,999101572.0,3.48,287098153,Technology,"Computer Software: Programming, Data Processing",2026-09-17
+RZLV,908889309.0,2.22,409409599,Technology,"Computer Software: Programming, Data Processing",2026-09-17
+S,8067778532.0,23.17,348199332,Technology,Computer Software: Prepackaged Software,2026-09-17
+SABR,936313056.0,2.32,403583214,Technology,"Computer Software: Programming, Data Processing",2026-09-17
+SAIL,11526705870.0,20.36,566144689,Technology,Computer Software: Prepackaged Software,2026-09-17
+SAN,214515179007.0,14.4,14896887431,Finance,Commercial Banks,2026-09-17
+SANA,928017975.0,2.92,317814375,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),2026-09-17
+SATL,847106910.0,4.95,171132709,Technology,Radio And Television Broadcasting And Communications Equipment,2026-09-17
+SBET,1794266969.0,7.98,224845485,Technology,Computer Software: Prepackaged Software,2026-09-17
+SBH,1478764102.0,16.01,92365028,Consumer Discretionary,Other Specialty Stores,2026-09-17
+SBRA,5147574533.0,20.09,256225711,Real Estate,Real Estate Investment Trusts,2026-09-17
+SBS,18591916982.0,5.28,3521196398,Utilities,Water Supply,2026-09-17
+SBSW,8523545674.0,11.6,734788420,Basic Materials,Precious Metals,2026-09-17
+SBUX,110203800000.0,97.34,1132153277,Consumer Discretionary,Restaurants,2026-09-17
+SCHW,180914455720.0,105.16,1720373295,Finance,Investment Bankers/Brokers/Service,2026-09-17
+SDOT,17705257.0,12.44,1423252,Consumer Discretionary,Restaurants,2026-09-17
+SERV,372842280.0,4.29,86909622,Industrials,Industrial Machinery/Components,2026-09-17
+SES,198824403.0,0.5804,342564443,Miscellaneous,Industrial Machinery/Components,2026-09-17
+SG,813647388.0,6.62,122907460,Consumer Discretionary,Restaurants,2026-09-17
+SGHC,6500842502.0,13.31,488417919,Consumer Discretionary,Services-Misc. Amusement & Recreation,2026-09-17
+SGLY,6160318.0,1.23,5008389,Industrials,Integrated Freight & Logistics,2026-09-17
+SHLS,1287494618.0,6.82,188782202,Technology,Semiconductors,2026-09-17
+SHOP,166641297815.0,129.96,1282250676,Technology,Computer Software: Prepackaged Software,2026-09-17
+SIDU,204475159.0,1.97,103794497,Telecommunications,Telecommunications Equipment,2026-09-17
+SIRI,9350235556.0,28.56,327389200,Consumer Discretionary,Broadcasting,2026-09-17
+SKHY,1333750978450.0,174.87,7627100008,Technology,Semiconductors,2026-09-17
+SLB,77338703767.0,52.3,1478751506,Energy,Oilfield Services/Equipment,2026-09-17
+SLDP,580721185.0,2.39,242979575,Miscellaneous,Industrial Machinery/Components,2026-09-17
+SLE,11376587.0,4.23,2689500,Technology,EDP Services,2026-09-17
+SLM,4696794480.0,25.28,185790921,Finance,Finance: Consumer Services,2026-09-17
+SLNH,293575436.0,1.12,262120925,Technology,EDP Services,2026-09-17
+SLS,2328434025.0,11.66,199694170,Health Care,Biotechnology: Pharmaceutical Preparations,2026-09-17
+SMCI,26508553244.0,36.85,719363724,Technology,Computer Manufacturing,2026-09-17
+SMMT,14136122947.0,17.3,817116933,Health Care,Biotechnology: Pharmaceutical Preparations,2026-09-17
+SMR,3895441461.0,8.3,469330297,Industrials,Metal Fabrications,2026-09-17
+SMTC,16629693297.0,167.55,99252124,Technology,Semiconductors,2026-09-17
+SNAP,9546811084.0,5.72,1669022917,Technology,"Computer Software: Programming, Data Processing",2026-09-17
+SNDK,236377371024.0,1519.97,155514498,Technology,Electronic Components,2026-09-17
+SNDX,1578772480.0,17.28,91364148,Health Care,Biotechnology: Pharmaceutical Preparations,2026-09-17
+SNOW,119461608000.0,331.02,360889396,Technology,Computer Software: Prepackaged Software,2026-09-17
+SNYR,1348439.0,0.2744,4914136,Health Care,Other Pharmaceuticals,2026-09-17
+SO,99747972782.0,86.23,1156766471,Utilities,Electric Utilities: Central,2026-09-17
+SOAR,9670075.0,0.19,50895132,Consumer Discretionary,Transportation Services,2026-09-17
+SOC,835591986.0,4.58,182443665,Energy,Oil & Gas Production,2026-09-17
+SOFI,21607971521.0,16.84,1283133701,Finance,Finance: Consumer Services,2026-09-17
+SOUN,2886028098.0,5.93,486682647,Technology,Computer Software: Prepackaged Software,2026-09-17
+SPCE,472221238.0,2.93,161167658,Consumer Discretionary,Transportation Services,2026-09-17
+SPCX,2101208515766.0,150.88,13926355486,Technology,"Computer Software: Programming, Data Processing",2026-09-17
+SPRY,412706473.0,4.165,99089189,Health Care,Biotechnology: Pharmaceutical Preparations,2026-09-17
+SPWR,110196369.0,0.3169,347732310,Technology,Semiconductors,2026-09-17
+SRE,53763686613.0,81.7,658062260,Utilities,Natural Gas Distribution,2026-09-17
+SRPT,2183310524.0,19.76,110491423,Health Care,Biotechnology: Pharmaceutical Preparations,2026-09-17
+SRRK,5969914524.0,49.37,120921907,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),2026-09-17
+STLA,14617802724.0,4.92,2971098115,Industrials,Auto Manufacturing,2026-09-17
+STM,43386622512.0,48.06,902759520,Technology,Semiconductors,2026-09-17
+STNE,2405468003.0,9.72,247476132,Technology,EDP Services,2026-09-17
+STUB,2271524848.0,5.89,385657869,Consumer Discretionary,Services-Misc. Amusement & Recreation,2026-09-17
+SU,81277561738.0,68.95,1178789873,Energy,Integrated oil Companies,2026-09-17
+SUGP,1157433.0,0.4952,2337304,Consumer Discretionary,Diversified Commercial Services,2026-09-17
+SUNB,30318504729.0,72.35,419053279,Consumer Discretionary,Diversified Commercial Services,2026-09-17
+SURG,8290750.0,0.1439,57614663,Consumer Discretionary,Advertising,2026-09-17
+SUZ,11705729115.0,9.1,1286343859,Basic Materials,Paper,2026-09-17
+SVM,2687381232.0,11.18,240373992,Basic Materials,Precious Metals,2026-09-17
+SVRA,1113593281.0,5.13,217074714,Health Care,Biotechnology: Pharmaceutical Preparations,2026-09-17
+SW,23850056627.0,44.58,534994541,Consumer Discretionary,Containers/Packaging,2026-09-17
+SWKS,13741174452.0,85.59,160546494,Technology,Semiconductors,2026-09-17
+SWVL,132898990.0,4.23,31418201,Consumer Discretionary,Business Services,2026-09-17
+SYF,27688522722.0,74.88,369771938,Finance,Finance: Consumer Services,2026-09-17
+T,173982071654.0,25.86,6727844998,Telecommunications,Telecommunications Equipment,2026-09-17
+TAL,6492778178.0,11.94,543783767,Real Estate,Other Consumer Services,2026-09-17
+TAP,7288484241.0,39.11,186358585,Consumer Staples,Beverages (Production/Distribution),2026-09-17
+TDAY,930091656.0,6.48,143532663,Consumer Discretionary,Newspapers/Magazines,2026-09-17
+TDOC,1140975652.0,6.43,177445669,Health Care,Medical/Nursing Services,2026-09-16
+TDUP,317827433.0,2.46,129198143,Consumer Discretionary,Catalog/Specialty Distribution,2026-09-16
+TE,1266249058.0,4.09,309596347,Technology,Semiconductors,2026-09-16
+TEAM,48736816052.0,190.28,256132100,Technology,Computer Software: Prepackaged Software,2026-09-16
+TEM,14589852616.0,69.97,208515830,Technology,"Computer Software: Programming, Data Processing",2026-09-16
+TENB,3971647787.0,36.37,109201204,Technology,Computer Software: Prepackaged Software,2026-09-16
+TENX,69608486.0,1.82,38246421,Health Care,Biotechnology: Pharmaceutical Preparations,2026-09-16
+TEVA,45644647610.0,38.53,1184652157,Health Care,Biotechnology: Pharmaceutical Preparations,2026-09-16
+TFC,59187788809.0,48.44,1221878382,Finance,Major Banks,2026-09-16
+TGB,3070935638.0,7.95,386281212,Basic Materials,Precious Metals,2026-09-16
+TGT,72637505119.0,154.68,469598559,Consumer Discretionary,Department/Specialty Retail Stores,2026-09-16
+TGTX,8643809423.0,55.85,154768298,Health Care,Biotechnology: Pharmaceutical Preparations,2026-09-16
+TJX,139201717420.0,122.84,1133195355,Consumer Discretionary,Clothing/Shoe/Accessory Stores,2026-09-16
+TLRY,536642101.0,3.93,136550153,Health Care, Medicinal Chemicals and Botanical Products ,2026-09-16
+TMC,1649846703.0,3.63,454503224,Basic Materials,Metal Mining,2026-09-16
+TME,12237107488.0,7.82,1564847505,Consumer Discretionary,Broadcasting,2026-09-16
+TNGX,3960657521.0,23.35,169621307,Health Care,Biotechnology: Pharmaceutical Preparations,2026-09-16
+TNMG,2045941.0,2.87,712871,Consumer Discretionary,Advertising,2026-09-16
+TNON,4336828.0,3.91,1109163,Health Care,Medical/Dental Instruments,2026-09-16
+TNYA,150727414.0,0.6577,229173505,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),2026-09-16
+TOST,17712810000.0,31.12,569177699,Technology,EDP Services,2026-09-16
+TRIP,1039558164.0,8.94,116281674,Technology,"Computer Software: Programming, Data Processing",2026-09-16
+TRMB,13368200686.0,57.32,233220528,Industrials,Industrial Machinery/Components,2026-09-16
+TROW,21937402014.0,102.4,214232442,Finance,Investment Managers,2026-09-16
+TROX,682717624.0,4.29,159141637,Basic Materials,Major Chemicals,2026-09-16
+TRP,61630000000.0,61.21,1006861624,Utilities,Natural Gas Distribution,2026-09-16
+TRUG,1770261.0,0.4386,4036163,Consumer Discretionary,Recreational Games/Products/Toys,2026-09-16
+TSCO,17100537296.0,32.78,521675939,Consumer Discretionary,RETAIL: Building Materials,2026-09-16
+TSHA,1681301092.0,5.07,331617572,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),2026-09-16
+TSLA,1446324255683.0,358.08,4039109293,Industrials,Auto Manufacturing,2026-09-16
+TSM,2230300838818.0,417.72,5339224454,Technology,Semiconductors,2026-09-16
+TTD,6700491566.0,14.49,462421778,Technology,"Computer Software: Programming, Data Processing",2026-09-16
+TU,14150045000.0,8.88,1593473536,Telecommunications,Telecommunications Equipment,2026-09-16
+TXN,235745757664.0,260.67,904383925,Technology,Semiconductors,2026-09-16
+UA,2076852691.0,4.87,426458458,Consumer Discretionary,Apparel,2026-09-16
+UAA,2132693611.0,5.0,426538722,Consumer Discretionary,Apparel,2026-09-16
+UBER,144776661376.0,70.97,2039969866,Consumer Discretionary,Business Services,2026-09-16
+UCL,13522749.0,0.3547,38124469,Consumer Discretionary,Telecommunications Equipment,2026-09-16
+UEC,5010582706.0,10.08,497081618,Basic Materials,Other Metals and Minerals,2026-09-16
+UL,134042247344.0,62.44,2146736825,Consumer Discretionary,Package Goods/Cosmetics,2026-09-16
+ULCC,1353668733.0,5.61,241295674,Consumer Discretionary,Air Freight/Delivery Services,2026-09-16
+UMAC,1195958730.0,22.01,54337062,Technology,Radio And Television Broadcasting And Communications Equipment,2026-09-16
+UNP,167796624410.0,280.92,597311065,Industrials,Railroads,2026-09-16
+UPST,2410444149.0,24.85,96999765,Finance,Finance: Consumer Services,2026-09-16
+UPWK,1063552153.0,8.55,124392065,Technology,EDP Services,2026-09-16
+UPXI,77492238.0,1.05,73802131,Finance,Finance: Consumer Services,2026-09-16
+URG,487383057.0,1.2,406152548,Basic Materials,Precious Metals,2026-09-16
+USAR,5862446742.0,15.1,388241506,Basic Materials,Metal Mining,2026-09-16
+USAS,1712768315.0,4.58,373966881,Basic Materials,Metal Mining,2026-09-16
+USB,93888180136.0,59.73,1571876446,Finance,Major Banks,2026-09-16
+USDE,209612765.0,6.2,33808510,Finance,Finance: Consumer Services,2026-09-16
+UUUU,2995905330.0,11.73,255405399,Industrials,Mining & Quarrying of Nonmetallic Minerals (No Fuels),2026-09-16
+UWMC,2016177147.0,1.23,1639168412,Finance,Finance: Consumer Services,2026-09-16
+V,661188771011.0,370.93,1782516300,Consumer Discretionary,Business Services,2026-09-16
+VALE,61737177544.0,14.13,4369227002,Basic Materials,Metal Mining,2026-09-16
+VERA,2469610490.0,31.77,77734041,Health Care,Biotechnology: Pharmaceutical Preparations,2026-09-16
+VERI,108493633.0,1.09,99535443,Technology,EDP Services,2026-09-16
+VFC,5081264317.0,12.73,399156663,Industrials,Garments and Clothing,2026-09-16
+VG,36026337983.0,14.65,2459135698,Utilities,Oil/Gas Transmission,2026-09-16
+VICI,26541474632.0,24.07,1102678630,Real Estate,Real Estate Investment Trusts,2026-09-16
+VIK,37798198247.0,85.38,442705531,Consumer Discretionary,Marine Transportation,2026-09-16
+VIR,1847838261.0,10.52,175650025,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),2026-09-16
+VISN,1487540357.0,6.51,228500823,Technology,Radio And Television Broadcasting And Communications Equipment,2026-09-16
+VKTX,3424930230.0,29.52,116020672,Health Care,Biotechnology: Pharmaceutical Preparations,2026-09-16
+VLY,7554113439.0,13.54,557910889,Finance,Major Banks,2026-09-16
+VMRK,49628250000.0,62.99,787875060,Real Estate,Real Estate Investment Trusts,2026-09-16
+VNET,1733772106.0,6.05,286573902,Technology,"Computer Software: Programming, Data Processing",2026-09-16
+VNRX,7787818.0,0.2749,28329640,Health Care,Biotechnology: In Vitro & In Vivo Diagnostic Substances,2026-09-16
+VRDN,2484499459.0,22.44,110717445,Health Care,Biotechnology: Pharmaceutical Preparations,2026-09-16
+VRT,92955394371.0,239.41,388268637,Technology,Industrial Machinery/Components,2026-09-16
+VST,48180432242.0,140.39,343189916,Utilities,Electric Utilities: Central,2026-09-16
+VSTM,683753980.0,7.32,93409014,Health Care,Biotechnology: Pharmaceutical Preparations,2026-09-16
+VTR,44980266221.0,88.21,509922528,Real Estate,Real Estate Investment Trusts,2026-09-16
+VTRS,19675361500.0,17.02,1156014189,Health Care,Biotechnology: Pharmaceutical Preparations,2026-09-16
+VVOS,3540772.0,0.1611,21978721,Health Care,Medical/Dental Instruments,2026-09-16
+VYX,958895442.0,7.11,134865744,Miscellaneous,Office Equipment/Supplies/Services,2026-09-16
+VZ,200821059389.0,49.76,4035792994,Telecommunications,Telecommunications Equipment,2026-09-16
+VZLA,1423778057.0,3.69,385847712,Basic Materials,Precious Metals,2026-09-16
+WBD,70902261587.0,28.07,2525908856,Telecommunications,Cable & Other Pay Television Services,2026-09-16
+WDAY,48026480000.0,187.76,255786536,Technology,EDP Services,2026-09-16
+WDC,152822489933.0,416.97,366507159,Technology,Electronic Components,2026-09-16
+WEAV,587193533.0,7.32,80217696,Technology,Computer Software: Prepackaged Software,2026-09-16
+WELL,167374996246.0,234.5,713752649,Real Estate,Real Estate Investment Trusts,2026-09-16
+WEN,1332782811.0,7.03,189585037,Consumer Discretionary,Restaurants,2026-09-16
+WETO,2004710.0,1.84,1089516,Industrials,Other Transportation,2026-09-16
+WFC,262725062312.0,87.05,3018093766,Finance,Major Banks,2026-09-16
+WFF,90127858.0,1.96,45983601,Consumer Discretionary,Miscellaneous manufacturing industries,2026-09-16
+WHLR,1857597.0,0.3829,4851389,Real Estate,Real Estate Investment Trusts,2026-09-16
+WIT,16687481408.0,1.68,9933024648,Technology,EDP Services,2026-09-16
+WKSP,6723617.0,0.4282,15702048,Consumer Discretionary,Auto Parts:O.E.M.,2026-09-16
+WMB,87841772002.0,70.9,1238953061,Utilities,Natural Gas Distribution,2026-09-16
+WMT,847244761076.0,107.5,7881346615,Consumer Discretionary,Department/Specialty Retail Stores,2026-09-16
+WOLF,1255513097.0,23.67,53042378,Technology,Semiconductors,2026-09-16
+WOOF,687406457.0,2.35,292513386,Consumer Discretionary,Other Specialty Stores,2026-09-16
+WU,2038129141.0,6.54,311640541,Consumer Discretionary,Business Services,2026-09-16
+WULF,8218014110.0,15.39,533984023,Finance,Finance: Consumer Services,2026-09-16
+WY,15625556480.0,21.81,716440004,Real Estate,Real Estate Investment Trusts,2026-09-16
+WYFI,693827387.0,17.26,40198574,Finance,Finance: Consumer Services,2026-09-16
+XE,6635958544.0,14.57,455453572,Industrials,Metal Fabrications,2026-09-16
+XEL,45991823951.0,72.71,632537807,Utilities,Power Generation,2026-09-16
+XOM,671598580427.0,163.32,4112163730,Energy,Integrated oil Companies,2026-09-16
+XOS,36966415.0,2.51,14727655,Consumer Discretionary,Auto Parts:O.E.M.,2026-09-16
+XP,10464718048.0,19.76,529590994,Finance,Investment Bankers/Brokers/Service,2026-09-16
+XPON,5143490.0,4.84,1062705,Miscellaneous,Industrial Machinery/Components,2026-09-16
+XRAY,1868942588.0,10.14,184313865,Health Care,Medical/Dental Instruments,2026-09-16
+XRX,475358530.0,3.48,136597279,Technology,Computer peripheral equipment,2026-09-16
+XTNT,45523443.0,0.32,142260759,Health Care,Medical/Dental Instruments,2026-09-16
+XYZ,45948801600.0,76.63,599618969,Technology,Computer Software: Prepackaged Software,2026-09-16
+YJ,9555548.0,1.96,4875280,Consumer Discretionary,Other Specialty Stores,2026-09-16
+YMM,8404109065.0,8.07,1041401371,Technology,Computer Software: Prepackaged Software,2026-09-16
+ZBAO,54065433.0,0.1116,484457285,Finance,Specialty Insurers,2026-09-16
+ZCMD,6990524.0,0.7743,9028185,Real Estate,Other Consumer Services,2026-09-16
+ZETA,7619517980.0,30.85,246985996,Technology,Computer Software: Prepackaged Software,2026-09-16
+ZONE,73405596.0,0.139,528097813,Consumer Discretionary,Specialty Chemicals,2026-09-16
+ZTS,30169455182.0,73.0,413280208,Health Care,Biotechnology: Pharmaceutical Preparations,2026-09-16
